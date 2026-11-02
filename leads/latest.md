@@ -1,10 +1,10 @@
 ---
 date: 2026-11-02
-generated_at: 2026-11-02T20:49:56Z
-status: partial
-videos: 1
+generated_at: 2026-11-02T21:44:17Z
+status: complete
+videos: 2
 reddit_posts: 29
-hn_stories: 14
+hn_stories: 17
 ---
 
 # Overnight sources for Monday, November 2, 2026
@@ -13,21 +13,32 @@ YouTube uploads from the last 48 hours, Reddit's top posts of the last 24 hours 
 
 ## Problems this run
 
-- YouTube: could not list IndyDevDan: no channel id found on the @indydevdan page
+None.
 
 ## Extra detail not available this run
 
 - YouTube captions: not available this run (Sign in to confirm you’re not a bot); videos are listed with their descriptions instead.
-- Reddit comments: stopped after 9 of 12 threads (HTTP 429).
+- Reddit comments: stopped after 10 of 12 threads (HTTP 429).
 
-## YouTube (1 video)
+## YouTube (2 videos)
+
+### Tiny Software Factories: Agentic Engineering DONE WRONG
+
+- Channel: IndyDevDan
+- URL: https://www.youtube.com/watch?v=1v7ldJiyH-Y
+- Published: 2026-11-02 06:00 PST
+- Views: 14,368
+
+Description:
+
+> What's up Engineers, here's a SNEAK PEEK of the upcoming Phase 3 Agentic Engineering Course: Tiny Software Factories Phase 3 PRESALE IS LIVE (What if your agents never stopped?) Today you'll learn agentic engineering DONE WRONG. On purpose. 🤨 You know this... You and I are the bottleneck. Every time you sit in the terminal prompting one agent back and forth, YOU are the system. Eighty percent or more of the work we're doing right now can run without us with the right system in place. In loop …
 
 ### Anthropic can't stop winning
 
 - Channel: Theo - t3.gg
 - URL: https://www.youtube.com/watch?v=y5TEATUDDfc
 - Published: 2026-11-02 01:10 PST
-- Views: 137,498
+- Views: 144,415
 
 Description:
 
@@ -222,7 +233,15 @@ Description:
    > - CLAUDE_CODE_SUBAGENT_EFFORT: sets the effort level subagents run at when nothing else names one, instead of inheriting the session's. So you can run the main session at high and have subagents do grunt work at low. Someone tested it: with the variable set to low, the subagent ran at low while the main session stayed at high.
    > - CLAUDE_CODE_DISABLE_ULTRATHINK: turns the …
 
-8. I benchmarked 10 open-source AI memory systems on BEAM (100K) with Claude. Two matched full context while reading 24–35x less text
+8. 10 hours after the Ultra plan reset, and now at 50% weekly
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xm1378/10_hours_after_the_ultra_plan_reset_and_now_at_50/
+   - posted 2026-11-02 08:00 PST
+
+   > It's actually so fast now compared to last week. Last week I can consume 50% in 2 days, now it's just 10 hours. It's just adding some new features in our node.js app and editing some PDFs.
+   > This is Ultra plan, the former Max 20.
+   > Any tips how to not maximize the limit, as we don't have 5 hour limits anymore, so if I don't stop Claude, then entire one week can be consumed in under a day.
+
+9. I benchmarked 10 open-source AI memory systems on BEAM (100K) with Claude. Two matched full context while reading 24–35x less text
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xlo7l8/i_benchmarked_10_opensource_ai_memory_systems_on/
    - posted 2026-11-01 20:50 PST
 
@@ -233,14 +252,6 @@ Description:
    > With only 60 questions, ranks 3–8 aren't clearly separated.
    > Results
    > Rank System Score (95% CI) Retrieved tokens Retrieval p50 …
-
-9. 10 hours after the Ultra plan reset, and now at 50% weekly
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xm1378/10_hours_after_the_ultra_plan_reset_and_now_at_50/
-   - posted 2026-11-02 08:00 PST
-
-   > It's actually so fast now compared to last week. Last week I can consume 50% in 2 days, now it's just 10 hours. It's just adding some new features in our node.js app and editing some PDFs.
-   > This is Ultra plan, the former Max 20.
-   > Any tips how to not maximize the limit, as we don't have 5 hour limits anymore, so if I don't stop Claude, then entire one week can be consumed in under a day.
 
 10. Is it just me or the subscription is getting tighter?
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xlrlj5/is_it_just_me_or_the_subscription_is_getting/
@@ -274,6 +285,10 @@ Description:
    > Here's a tip for beginners that helped me a lot when I first started using claude code.
    > Before the agent plans, let alone build anything, I let it interview me. In Claude Code I switch to plan mode (Shift+Tab) so nothing gets edited, then paste this:
    > Before you plan anything, interview me about what I want to build. Ask one question at a time. Cover who it's for, what "done" looks like and how we'll check it, what already exists, constraints, and what is out of scope. When you could write a …
+
+   Top comments:
+   - Slight-Living-8098: Matt Pocock's /grill-with-docs and /to-spec
+   - Euphoric_North_745: i don't want anyone to interview me, just ask it to make no mistake 😂 and make me rich, and also not to skynet around
 
 3. One vendor cut usage overnight, another doubled it after backlash. How do you plan around this?
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xlmvkf/one_vendor_cut_usage_overnight_another_doubled_it/
@@ -331,82 +346,98 @@ Description:
    > What actually happened: I had a check that validated a tool's output shape. Upstream renamed a field. The check still read the old name, got undefined, and reported "0 results" — a clean green verdict on an empty …
 
 
-## Hacker News (14 stories)
+## Hacker News (17 stories)
 
 1. Astra can read and write weights to improve Qwen
    - Link: https://rikiyat.github.io/blog/weight-space-programming/
    - Discussion: https://news.ycombinator.com/item?id=50341174
-   - 900 points, 290 comments, posted 2026-11-02 10:21 PST
+   - 1,223 points, 380 comments, posted 2026-11-02 10:21 PST
 
-2. AI delivers 'zero financial payoff' to most companies, Apollo economist says
+2. Anthropic's internal AI use, at retail prices, now exceeds its employee pay
+   - Link: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
+   - Discussion: https://news.ycombinator.com/item?id=50339494
+   - 242 points, 196 comments, posted 2026-11-02 08:40 PST
+
+3. AI delivers 'zero financial payoff' to most companies, Apollo economist says
    - Link: https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
    - Discussion: https://news.ycombinator.com/item?id=50330456
    - 241 points, 247 comments, posted 2026-11-01 14:10 PST
 
-3. Anthropic's internal AI use, at retail prices, now exceeds its employee pay
-   - Link: https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11
-   - Discussion: https://news.ycombinator.com/item?id=50339494
-   - 222 points, 174 comments, posted 2026-11-02 08:40 PST
-
 4. Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1
    - Link: https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html
    - Discussion: https://news.ycombinator.com/item?id=50337439
-   - 215 points, 231 comments, posted 2026-11-02 06:38 PST
+   - 220 points, 245 comments, posted 2026-11-02 06:38 PST
 
 5. China's First Frontier AI Export Controls: Mofcom Announcement No. 48
    - Link: https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/
    - Discussion: https://news.ycombinator.com/item?id=50334038
-   - 146 points, 81 comments, posted 2026-11-01 23:27 PST
+   - 146 points, 83 comments, posted 2026-11-01 23:27 PST
 
 6. Jobless tech workers are being left out of San Francisco's AI boom
    - Link: https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near
    - Discussion: https://news.ycombinator.com/item?id=50337454
-   - 135 points, 176 comments, posted 2026-11-02 06:40 PST
+   - 145 points, 202 comments, posted 2026-11-02 06:40 PST
 
 7. Last night an AI agent performed brain surgery on a mouse
    - Link: https://twitter.com/OcanaSantero/status/2115442964574908902
    - Discussion: https://news.ycombinator.com/item?id=50336138
-   - 108 points, 93 comments, posted 2026-11-02 04:50 PST
+   - 112 points, 95 comments, posted 2026-11-02 04:50 PST
 
 8. AI fan wikis riddled with errors are muddying the waters of games culture
    - Link: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture
    - Discussion: https://news.ycombinator.com/item?id=50332086
-   - 100 points, 106 comments, posted 2026-11-01 17:47 PST
+   - 100 points, 107 comments, posted 2026-11-01 17:47 PST
 
 9. Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
    - Link: https://momentic.ai/
    - Discussion: https://news.ycombinator.com/item?id=50339913
-   - 84 points, 55 comments, posted 2026-11-02 09:05 PST
+   - 94 points, 63 comments, posted 2026-11-02 09:05 PST
 
-10. So I guess everyone uses LLMs to think now
+10. Oracle files to sell $20B in new stock, bonds to finance AI buildout
+   - Link: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
+   - Discussion: https://news.ycombinator.com/item?id=50342284
+   - 92 points, 54 comments, posted 2026-11-02 11:27 PST
+
+11. So I guess everyone uses LLMs to think now
    - Link: https://eva.ac/blog/llms/
    - Discussion: https://news.ycombinator.com/item?id=50330253
    - 77 points, 130 comments, posted 2026-11-01 13:49 PST
 
-11. LongCat-2.5: Native Multimodality for Agentic Tasks
-   - Link: https://longcat.ai/blog/longcat-2.5/
-   - Discussion: https://news.ycombinator.com/item?id=50337716
-   - 60 points, 20 comments, posted 2026-11-02 07:00 PST
-
-12. GPT-Rosalind-6 System Card Addendum
-   - Link: https://deploymentsafety.openai.com/gpt-rosalind-6
-   - Discussion: https://news.ycombinator.com/item?id=50337503
-   - 55 points, 46 comments, posted 2026-11-02 06:44 PST
-
-13. Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings
+12. Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings
    - Link: https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now
    - Discussion: https://news.ycombinator.com/item?id=50339224
-   - 53 points, 23 comments, posted 2026-11-02 08:25 PST
+   - 66 points, 26 comments, posted 2026-11-02 08:25 PST
 
-14. Oracle files to sell $20B in new stock, bonds to finance AI buildout
-   - Link: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html
-   - Discussion: https://news.ycombinator.com/item?id=50342284
-   - 51 points, 23 comments, posted 2026-11-02 11:27 PST
+13. Anthropic reveals $900B AI spending commitments ahead of IPO
+   - Link: https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f
+   - Discussion: https://news.ycombinator.com/item?id=50342424
+   - 64 points, 38 comments, posted 2026-11-02 11:36 PST
+
+14. LongCat-2.5: Native Multimodality for Agentic Tasks
+   - Link: https://longcat.ai/blog/longcat-2.5/
+   - Discussion: https://news.ycombinator.com/item?id=50337716
+   - 64 points, 21 comments, posted 2026-11-02 07:00 PST
+
+15. Agentic backdoors via pretraining poisoning
+   - Link: https://arxiv.org/abs/2610.37741
+   - Discussion: https://news.ycombinator.com/item?id=50341334
+   - 63 points, 14 comments, posted 2026-11-02 10:30 PST
+
+16. Egoless Mathematics in the AI Era
+   - Link: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/
+   - Discussion: https://news.ycombinator.com/item?id=50341736
+   - 59 points, 48 comments, posted 2026-11-02 10:54 PST
+
+17. GPT-Rosalind-6 System Card Addendum
+   - Link: https://deploymentsafety.openai.com/gpt-rosalind-6
+   - Discussion: https://news.ycombinator.com/item?id=50337503
+   - 58 points, 49 comments, posted 2026-11-02 06:44 PST
 
 
 ## Channel ids resolved this run
 
 - Theo - t3.gg: UCbRP3c757lWg9M-U7TyEkXA
 - Matt Pocock: UCswG6FSbgZjbWtdf_hMLaow
+- IndyDevDan: UC_x36zCEGilGpB1m-V4gmjg
 - The PrimeTime: UCUyeluBRhGPCW4rPe_UvBZQ
 - Fireship: UCsBjURrPoezykLs9EqgamOA
