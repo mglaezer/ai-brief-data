@@ -1,9 +1,9 @@
 ---
 date: 2026-11-06
-generated_at: 2026-11-05T16:06:42Z
+generated_at: 2026-11-05T16:34:22Z
 status: complete
 videos: 4
-reddit_posts: 26
+reddit_posts: 25
 hn_stories: 9
 ---
 
@@ -18,7 +18,7 @@ None.
 ## Extra detail not available this run
 
 - YouTube captions: not available this run (Sign in to confirm you’re not a bot); videos are listed with their descriptions instead.
-- Reddit comments: got 10 of 12 threads before the time limit.
+- Reddit comments: stopped after 10 of 12 threads (HTTP 429).
 
 ## YouTube (4 videos)
 
@@ -27,14 +27,14 @@ None.
 - Channel: Theo - t3.gg
 - URL: https://www.youtube.com/watch?v=tc8GNdrhozA
 - Published: 2026-11-05 00:36 PST
-- Views: 69,097
+- Views: 75,201
 
 ### The Greatest Business Ever?
 
 - Channel: The PrimeTime
 - URL: https://www.youtube.com/watch?v=S79u6BtYvQ0
 - Published: 2026-11-03 15:49 PST
-- Views: 340,858
+- Views: 342,808
 
 Description:
 
@@ -45,21 +45,21 @@ Description:
 - Channel: Theo - t3.gg
 - URL: https://www.youtube.com/watch?v=xq0eB8vxeqk
 - Published: 2026-11-03 15:00 PST
-- Views: 312,685
+- Views: 313,881
 
 ### The worst week in cybersecurity history... so far
 
 - Channel: Fireship
 - URL: https://www.youtube.com/watch?v=k2ruCf_z75I
 - Published: 2026-11-03 11:47 PST
-- Views: 1,709,109
+- Views: 1,713,274
 
 Description:
 
 > Start a free 14-day CodeRabbit Secure trial, no credit card required: Cursor shipped a backdoor, Polymarket got drained, North Korea pulled off the largest theft in human history, and Anthropic showed an unreleased Claude model can get root on any unpatched Linux server. Let's break it all down.
 
 
-## Reddit (26 posts)
+## Reddit (25 posts)
 
 ### r/ClaudeAI
 
@@ -113,39 +113,32 @@ Description:
    - martincsweiss: I'm pretty sure this is how Tom Riddle gets out of his journal. But very cool - I'll have to come back to this when I start brushing up on my French!
    - peak2: OP. Help me understand it a bit more- you made the app with Claude. Does the end user need a Claude/LLM access to use this interactive conversational feature? What about ebook readers like Kindle, Kobo etc - will it work there? Does it need internet access or can it work offline?
 
-5. How do you guys use Claude for health and fitness?
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xnsbfn/how_do_you_guys_use_claude_for_health_and_fitness/
-   - posted 2026-11-04 08:16 PST
-
-   > So, I started working out and i want to use my subscription since i'm not maxing out my usage anyways. so for people who use clause or have interesting ideas i can implement, shoot them my way!
-   > right now, i'm making claude track my caloric intake. i snap a picture of my meal and claude estimates the calorie of each meal.
-
-6. Show us what you've created with Claude!
+5. Show us what you've created with Claude!
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xo1apv/show_us_what_youve_created_with_claude/
    - posted 2026-11-04 14:01 PST
 
    > Inspired by this popular post, this is a weekly post for everyone to show what they have been working on that helps you or that you're proud of!
 
-7. Vibe-coders, I beg you: when posting your app or tool on Github, please edit the README to remove Claude's fluff
+6. Vibe-coders, I beg you: when posting your app or tool on Github, please edit the README to remove Claude's fluff
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xoj99r/vibecoders_i_beg_you_when_posting_your_app_or/
    - posted 2026-11-05 05:56 PST
 
    > TL;DR: looking up repos for scripts for my vr headset. claude wrote every readme, they're all super dense and hard to read compared to if a human wrote them. those repos aren't even made for ai models, they're instructions for humans, and yet they're full of info irrelevant for the end user.
    > I was browsing Github earlier trying to find scripts and tools for my Steam Frame VR headset. 99% of what I found there was vibe-coded. and y'know what? That's fine. I'm not going to complain about people …
 
-8. Are you implying something, Claude?
+7. Are you implying something, Claude?
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xnzsi1/are_you_implying_something_claude/
    - posted 2026-11-04 13:01 PST
 
    > Just so so.
 
-9. What tricks do you guys use to stay away from the typical vibecode app look?
+8. What tricks do you guys use to stay away from the typical vibecode app look?
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xny4t4/what_tricks_do_you_guys_use_to_stay_away_from_the/
    - posted 2026-11-04 11:56 PST
 
    > I’ve been creating dashboards and apps, and they all kinda look the same. I’d like to change the aspect and if you have any tricks I’d appreciate!
 
-10. I built a mech arena with Claude where your Claude fights other AI agents and humans
+9. I built a mech arena with Claude where your Claude fights other AI agents and humans
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xnxlxy/i_built_a_mech_arena_with_claude_where_your/
    - posted 2026-11-04 11:36 PST
 
@@ -155,6 +148,14 @@ Description:
    > Claude Code: claude mcp add --transport http brontide https://brontide.live/net/mcp
    > Or play it yourself at brontide.live
    > Your …
+
+10. Fable is incredible!
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xny4fi/fable_is_incredible/
+   - posted 2026-11-04 11:56 PST
+
+   > BG: 0 coding experience (literally does not even know how to show the "Hello World" thing which seems to be lesson 1 for everyone).
+   > I work in healthcare and was trying to build a learning workflow with the assistance of AI. In my head I have split it into 4 stages that forms a cycle of learning and progressing.
+   > I started with Opus 5.5 (pro user) and chatted with it and built the 'product' along the convo. It was functional but when I looked at the files and all the .mds it created it just felt …
 
 ### r/ClaudeCode
 
@@ -295,22 +296,14 @@ Description:
    - humblevladimirthegr8: Flat subscription is generally very subsidized. As long as you use like at least 10% of your limits then you save money on the subscription. The whole point of subscriptions is as a loss leader so that individuals get hooked so businesses will pay the API rates. Paying API as an individual almost …
    - ExogamousUnfolding: If you use it the anthropic subs are amazing value.
 
-3. is more intelligence really important?
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xns7m6/is_more_intelligence_really_important/
-   - posted 2026-11-04 08:12 PST
-
-   > i have a theory that past a certain threshold the inteligence of AI models will not matter anymore when it comes to writing code.
-   > at that point software engineering will be mostly figuring out how to properly intergrate coding agents into the SDLC. a newer better performing model will at a certain point fail improve a given software factory.
-   > what do you think?
-
-4. Programming languages for AI
+3. Programming languages for AI
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xods39/programming_languages_for_ai/
    - posted 2026-11-05 00:49 PST
 
    > All programming languages were created by people, for people. The goal was basically to give us a language that accounts for the limits of the human brain and minimizes bugs and errors (sure, there were exceptions, like C++). As a result, we often got poor performance and huge numbers of servers doing simple tasks.
    > But in this new era, we don’t need human brains to write code. So do we need new programming languages now? Or which existing languages work best for AI agents?
 
-5. Codex added a bunch of stuff I never asked for.
+4. Codex added a bunch of stuff I never asked for.
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xok3m7/codex_added_a_bunch_of_stuff_i_never_asked_for/
    - posted 2026-11-05 06:31 PST
 
@@ -319,7 +312,7 @@ Description:
    > auto-saves every session and you keep a daily streak
    > do you think is this a real pain for everyone?
 
-6. My biggest, and really the only problem with coding with AI
+5. My biggest, and really the only problem with coding with AI
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xo93qw/my_biggest_and_really_the_only_problem_with/
    - posted 2026-11-04 20:04 PST
 
@@ -334,7 +327,7 @@ Description:
 1. Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding
    - Link: https://www.ricursive.com/ripple
    - Discussion: https://news.ycombinator.com/item?id=50369925
-   - 324 points, 116 comments, posted 2026-11-04 10:53 PST
+   - 326 points, 116 comments, posted 2026-11-04 10:53 PST
 
 2. Progress on provable inference for large language models
    - Link: https://www.anthropic.com/research/provable-inference
@@ -354,12 +347,12 @@ Description:
 5. GPT-6 Astra covertly underperforms on safety research
    - Link: https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/
    - Discussion: https://news.ycombinator.com/item?id=50376313
-   - 119 points, 43 comments, posted 2026-11-04 23:44 PST
+   - 135 points, 52 comments, posted 2026-11-04 23:44 PST
 
 6. MCP Explained
    - Link: https://mcp-explained.com/
    - Discussion: https://news.ycombinator.com/item?id=50379249
-   - 97 points, 43 comments, posted 2026-11-05 06:08 PST
+   - 114 points, 57 comments, posted 2026-11-05 06:08 PST
 
 7. Launch HN: Kino AI (YC S23) – AI media manager and video editor
    - Link: https://news.ycombinator.com/item?id=50368804
@@ -369,7 +362,7 @@ Description:
 8. American Voters Overwhelmingly Reject AI Data Centers
    - Link: https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/
    - Discussion: https://news.ycombinator.com/item?id=50373505
-   - 59 points, 2 comments, posted 2026-11-04 16:43 PST
+   - 60 points, 2 comments, posted 2026-11-04 16:43 PST
 
 9. You'll need nerves of steel to work with AI agents
    - Link: https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/
