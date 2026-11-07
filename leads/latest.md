@@ -1,10 +1,10 @@
 ---
 date: 2026-11-07
-generated_at: 2026-11-06T16:00:40Z
+generated_at: 2026-11-07T07:20:27Z
 status: complete
-videos: 2
-reddit_posts: 28
-hn_stories: 14
+videos: 4
+reddit_posts: 29
+hn_stories: 12
 ---
 
 # Overnight sources for Saturday, November 7, 2026
@@ -18,81 +18,57 @@ None.
 ## Extra detail not available this run
 
 - YouTube captions: not available this run (Sign in to confirm you’re not a bot); videos are listed with their descriptions instead.
-- Reddit comments: got 10 of 12 threads before the time limit.
+- Reddit comments: stopped after 9 of 12 threads (HTTP 429).
 
-## YouTube (2 videos)
+## YouTube (4 videos)
 
-### well this is bad
+### How Claude Fixes It's Own Code
 
-- Channel: The PrimeTime
-- URL: https://www.youtube.com/watch?v=B3_Ftfhkzz0
-- Published: 2026-11-05 17:11 PST
-- Views: 415,905
+- Channel: Theo - t3.gg
+- URL: https://www.youtube.com/watch?v=TFCDWrEBaFM
+- Published: 2026-11-06 15:00 PST
+- Views: 47,000
 
-Description:
+### OpenAI’s nameless model just changed the odds of P = NP...
 
-> Pipes allows your users to securely connect their third-party accounts to your application Want me to research and create video????:
+- Channel: Fireship
+- URL: https://www.youtube.com/watch?v=iw9SZgyahqg
+- Published: 2026-11-06 09:00 PST
+- Views: 1,100,000
 
 ### I can't believe Pewdiepie made this
 
 - Channel: Theo - t3.gg
 - URL: https://www.youtube.com/watch?v=tc8GNdrhozA
-- Published: 2026-11-05 00:36 PST
-- Views: 174,050
+- Published: 2026-11-05 16:00 PST
+- Views: 199,000
+
+### AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+- Channel: The PrimeTime
+- URL: https://www.youtube.com/watch?v=B3_Ftfhkzz0
+- Published: 2026-11-05 16:00 PST
+- Views: 607,000
 
 
-## Reddit (28 posts)
+## Reddit (29 posts)
 
 ### r/ClaudeAI
 
-1. Claude can now analyze your spending with its new Personal Finance tool
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xp0qxj/claude_can_now_analyze_your_spending_with_its_new/
-   - posted 2026-11-05 17:53 PST
-   - Links to: https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/
+1. I built a sailing sim with Claude Code and made the frontier models race each other in it
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpij9t/i_built_a_sailing_sim_with_claude_code_and_made/
+   - posted 2026-11-06 09:22 PST
+
+   > I built a sailing sim with Claude Code. Claude Code wrote basically all of it (the boat physics, wind, the 3D water and coast, and the setup that lets AI models sail it) while I directed what to build and checked the results.
+   > How the race works: every 5 secs each model gets the full state of the world (23 raw numbers like heading, speed, wind, where the next mark is etc) and sets its helm and sails. No sailing tips. The sim pauses while it thinks, so slow models aren't punished.
+   > Opus, GPT-6 …
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. Alright, the thread is basically a classic convenience vs. privacy showdown. While a few of you are ready to ditch your other subs and budgeting apps, the overwhelming sentiment is one of major side-eye. The community's verdict …
-   - ProjectorInquiry: I tell myself I won’t use it for security and privacy reasons, but I already know that I won’t be able to help myself.
-   - This_They_Those_Them: I already built my own, do you want it? It loads pdf statements and never leaves the MacBook. https://github.com/ReckingBallResearch/Budgeter
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. Let's get this thread squared away. The community absolutely loves this creative benchmark and the results are pretty clear. The big takeaway: Gemini Argon smoked the competition , winning the race while being 5x cheaper than GPT-6 …
+   - Real_Doubt_6684: Qwen is a different kind of winner
+   - I_NEED_YOUR_MONEY: first to the bar
 
-2. Open question to Anthropic: If you're making 30,000 merges a day, why are more than 98% of open GitHub issues unassigned, including serious security bugs?
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xozfcv/open_question_to_anthropic_if_youre_making_30000/
-   - posted 2026-11-05 16:48 PST
-
-   > According to Anthropic's own engineering blog , the company was merging more than 30,000 code changes per day as of last month.
-   > Yet, of the 16,060 currently open issues in Anthropic's public Claude Code GitHub repository, 15,766 (over 98%) have no assignee. Many have remained open for months or years, including serious security, privacy, and functionality bugs.
-   > Just one current example is the Privacy violation in User-Agent header issue, involving Claude Code disclosing users' email addresses …
-
-   Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. The consensus is that while OP's frustration is valid, the situation is more nuanced. The top-voted theories are that Anthropic either doesn't use GitHub for internal bug tracking at all (it's just a public-facing mirror) or they …
-   - Pure_Material_9235: My guess is that they're concerned of the prompt injection risks involved with automating solving GitHub issues thus they want a human involved in reviewing those before letting the automation go. From there, once a human is involved, they probably slow down a lot.
-   - _RemyLeBeau_: Security related bugs need to be prioritized, especially in this era, and especially since their a leader in this space.
-
-3. I built a 3D globe for my two boys with Claude Code. It got way more love than I expected, so here's how it's grown.
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xou90f/i_built_a_3d_globe_for_my_two_boys_with_claude/
-   - posted 2026-11-05 13:04 PST
-
-   > A little while ago, I shared a small interactive globe I'd been building for my two boys, aged 9 and 6. I'm just a dad with no coding background, and I built the whole thing with Claude Code (Opus 5.5).
-   > It got way more attention than I ever expected. And the feedback from parents and kids has been so lovely that I'd really love for more kids to get to explore it. So I wanted to share it here too, since none of this would exist without Claude Code.
-   > Quick recap: I wanted my kids' screen time to …
-
-   Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. The consensus is clear: y'all are absolutely blown away by what OP, a non-coder dad, built for his kids with Claude Code. The thread is full of praise, calling the 3D globe "beautiful," "amazing," and "genius." Here's the rundown of …
-   - scruffles360: When my kids were younger, I tried to get them interested in programming. They had been a bit interested in Scratch and I thought they would be as into it as I was when I used to code Basic programs in the 80s. Here's the problem though - I could never set expectations. In the 80s, I could …
-   - EmDeelicious: This is beautiful! Any plans to open-source it? And if you have some spare tokens, mind adding German localization?
-
-4. Was there ever an explanation for that creepy Opus 5.0 glitch a few months ago?
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xp6g4g/was_there_ever_an_explanation_for_that_creepy/
-   - posted 2026-11-05 23:04 PST
-
-   > “Glitch” may not be the right word. It seemed like the prompt “see the below---” caused it to generate weird content (often in other languages). I never saw much about and I’m curious.
-
-   Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. The general consensus is that the prompt "see the below---" was a specific incantation that broke Claude's instruction-following, causing it to enter what users are calling "base model mode." In this state, it forgot it was a …
-   - garloid64: I think they called it "base model mode" like this specific prefix would cause the model to forget its instruct and RL posttraining somehow. It's impossible to say how this happens, it's just a weird corner of the probability distribution where the posttraining breaks down.
-   - thejohnd: Is it patched in current 5.0 & 5.5?
-
-5. I built a Netflix-style app for my media server with Claude. The whole thing is 15 MB 🤯
+2. I built a Netflix-style app for my media server with Claude. The whole thing is 15 MB 🤯
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xp76q1/i_built_a_netflixstyle_app_for_my_media_server/
    - posted 2026-11-05 23:53 PST
 
@@ -101,125 +77,113 @@ Description:
    > https://reddit.com/link/1xp76q1/video/qv0lumey4yzh1/player
    > i …
 
-6. 3 interesting things Claude can do for you but you didn't know
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xou0q2/3_interesting_things_claude_can_do_for_you_but/
-   - posted 2026-11-05 12:55 PST
+   Top comments:
+   - bananaboatssss: Bit off topic, but what's the deal with never calitalizing any letters, including I?
+   - BeatnutNL: Instructions to an llm to create the illution of organic human text. Less syntax
+   - Far-Let-8610: This is it lol.
 
-   > 1) Walk into any appointment already knowing what to ask/say: Let it be a doctor, mechanic, lawyer, accountant, the guy quoting your roof, ANYONE. Think about how those meetings go. They talk fast, they use words you half know, you nod, and after that, on the way home, you remember a very important question you forgot to ask. What you can do is simple: before you go, open Claude, start your mic and just yap about the situation like you'd tell a friend. "My car makes a grinding noise when I …
+3. Claude, make me these parts in Solidworks.... 7 minutes later....
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpeg2l/claude_make_me_these_parts_in_solidworks_7/
+   - posted 2026-11-06 06:40 PST
 
-7. Built a little touchscreen dashboard for my desk with Claude Code
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xoxnhp/built_a_little_touchscreen_dashboard_for_my_desk/
-   - posted 2026-11-05 15:28 PST
+   > I had Claude write its own MCP connector to my SolidWorks installation on my computer. I regularly use it to create parts I'm using off Amazon or other sites without a CAD file.
+   > Works great.
+   > FWIW: I posted the same thing over in r/SolidWorks and they didn't see how cool this was. Downvoted hard.
 
-   > I got a Corsair XENEON Edge (a 2560x720 touchscreen strip) and spent an afternoon building a dashboard for it with Claude Code instead of using the widgets it came with.
-   > The part I use the most: every Linear ticket has a copy button that builds a full prompt for Claude with the title, status, description, and a line asking it to read the comments and give me a plan before it changes anything. Picking up a ticket is one tap now.
-   > Also on it:
-   > A todo list Claude can add to when I ask
-   > How many …
+   Top comments:
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 200 comments. A full-blown civil war has erupted in this thread over OP's 7-minute CAD parts. The consensus is sharply divided. On one hand, you have a mountain of upvotes calling the output unusable "CAD slöp" that looks nothing like the …
+   - Intelligent_Train689: People here are talking a lot of trash, but I literally gave Claude a prompt to create a mount for my computer hub to attach to an aluminum extrusion - along with threaded parts and a custom bolt. In fact, I originally gave it the dimensions I wanted, but Claude said there was going to be too much …
+   - Environmental-Pea37: Mechanical engineers are the coders of 2024 . They’re in the denial phase
 
-8. I've used the Big Three of the AI industry and here's what I think as an average human
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xotkqg/ive_used_the_big_three_of_the_ai_industry_and/
-   - posted 2026-11-05 12:37 PST
+4. Atrocious READMEs in vibe coded projects.
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpcvan/atrocious_readmes_in_vibe_coded_projects/
+   - posted 2026-11-06 05:31 PST
 
-   > As a normal consumer with no big tech background.
-   > Claude: Imagine knowing absolutely nothing about building things. No coding, no technical knowledge, nothing. But you've got an idea you want to bring to life.
-   > With Opus 5.5 and Fabel, you could probably build an entire civilization without understanding how the hell it happened. I'm not even kidding.
-   > Opus is in a league of its own. It makes the common man feel like he could rule the world. You bring the vision, Claude figures out the rest. No …
+   > This is becoming a huge problem, in my opinion.
+   > Way too many projects use a "marketing" style for their README (AI generated ofc, Claude loves to write like that). Its supposed to be concise and not be filled with word salad. Also for some reason it always assumes that the reader is a toddler that interacts for the first time with a PC. I really hope this changes soon and doesnt become the default...
+   > Here is an example:
+   > "Runs locally: No cloud, no servers, no API keys, zero network calls. It …
 
-9. Personal Finance in Claude (beta, Nov 5): what Claude can actually see, what it can’t do, and who gets it
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xp28a6/personal_finance_in_claude_beta_nov_5_what_claude/
-   - posted 2026-11-05 19:06 PST
+   Top comments:
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. Looks like we've got a civil war brewing in here over READMEs. The thread is heavily divided. On one side, you've got OP and a vocal group who are completely over Claude's verbose, marketing-fluff style of writing. They argue it's …
+   - OldPersimmon7704: My single biggest peeve with generative AI at this point is the over-explanation, especially on tasks like web design or readmes. It will consistently expose information that could never be useful for anyone in any situation.
+   - LEERRROOOOYYYYY: Readmes can't bother you if you don't know where to find them (i haven't opened the project folder in months)
 
-   > Anthropic announced Personal Finance in Claude yesterday (Nov 5). The headline is "connect your bank and ask questions". Here is what the announcement actually says about access and limits, since that is what most of the comments will be about.
-   > Who gets it:
-   > - Rolling out in beta "this week" on Pro, Max and Ultra plans, US only for now
-   > - It shows up as a Personal Finance hub in the sidebar when you have it
-   > What Claude sees, for the accounts you choose to connect:
-   > - Bank name, account name, type …
+5. Anyone else being driven by people who pretend this doesn't exist?
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpshux/anyone_else_being_driven_by_people_who_pretend/
+   - posted 2026-11-06 16:16 PST
 
-10. I'm an accountant and somehow Claude has me building software for our office
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xoo1pf/im_an_accountant_and_somehow_claude_has_me/
-   - posted 2026-11-05 09:04 PST
+   > *That title was supposed to read "driven nuts".*
+   > I spend hours a day in Claude. If you can dream it, you can make it. Any moron can now be a poor data scientist, which is a huge step up.
+   > Yet I am surrounded by a world who acts likes this tool hardly exists or is just a quicker way of getting a sports score.
+   > I feel like I am in Don't Look Up.
+   > One factor is that the world is changing... but maybe that's dramatic. But the way you can access information has drastically changed.
 
-   > This started because I was tired of chasing clients for the same documents every month. I figured I'd try building a little internal app where we could track which clients have submitted everything, what's still missing and who needs a reminder. I've been using Claude to help build it and it's actually starting to look like something our team could use. Now I've hit the part where I need to save information and let a few coworkers log in and Claude keeps suggesting Supabase for this. From what …
+6. I can’t code, but Claude built me a working Alien (1979) “MOTHER” dashboard for my smart home
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xp9pso/i_cant_code_but_claude_built_me_a_working_alien/
+   - posted 2026-11-06 02:39 PST
+
+   > I’ve loved the computer screens in the original Alien for years, so I asked Claude to turn my Home Assistant dashboard into MU-TH-UR 6000, the Nostromo’s ship computer. The house is the ship and the family are the crew. Video’s attached. Turn the sound on.
+   > I have no coding background at all. I used Claude Code connected to Home Assistant through its MCP server, so it could look at my real devices and edit the dashboard directly. It checked with me before changing anything.
+   > What it built, from …
+
+7. Anthropic researchers are reporting a sharp, sudden increase in how much AI is speeding up AI
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xplov4/anthropic_researchers_are_reporting_a_sharp/
+   - posted 2026-11-06 11:24 PST
+
+   > Source: https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/
+
+8. Yo claude, you don't need 166 agents for this..
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xphfvn/yo_claude_you_dont_need_166_agents_for_this/
+   - posted 2026-11-06 08:40 PST
+
+   > I had redesigned my admin panel UI which is like 8 pages max. I was using ultracode for the /design prompt (prompt 1) but when it finished building the designs, I said 'continue with it' and bro started spawning 166 agents in total to do the review work for it. I had to stop it and tell it to use max 2 agents from now on for such things.
+
+9. Duet?
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpnpn4/duet/
+   - posted 2026-11-06 12:47 PST
+
+   > Ahh, Reddit, you never disappoint.
+   > But now that it's been out there for a week or so, what do people really think?
+
+10. False positive: debugging my own software flagged as reverse engineering
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xpxotw/false_positive_debugging_my_own_software_flagged/
+   - posted 2026-11-06 20:42 PST
+
+   > I’m working on my own project, VSTMX, and asked an AI assistant to help debug a browser reconnect issue after a tmux crash. The request was to reproduce the bug in my development environment, inspect my application’s connection and session-selection flow, and fix the reconnect behavior.
+   > The request wasn’t about extracting a model’s hidden reasoning, reverse-engineering a model, or copying model outputs. But I received this refusal:
+   > > *“This request was blocked as it seems to violate Anthropic's …
 
 ### r/ClaudeCode
 
-1. Woke 3.0 is truly back 🔵🌊
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xorv25/woke_30_is_truly_back/
-   - posted 2026-11-05 11:29 PST
+1. Opus 5.5 is trying to destroy my codebase recently
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xphsj9/opus_55_is_trying_to_destroy_my_codebase_recently/
+   - posted 2026-11-06 08:54 PST
+
+   > https://preview.redd.it/vznllqr1w00i1.png?width=1877&format=png&auto=webp&s=d62746b50eb4454b309c94aa1b2bf31224e10b20
+   > https://preview.redd.it/gddra6u2v00i1.png?width=1052&format=png&auto=webp&s=5168080df812846eca2f228539d23ed415e7c662
+   > https://preview.redd.it/vmepptz6v00i1.png?width=1262&format=png&auto=webp&s=27ab4ee407a311e20e112aa0135be9fdc79ff9f6
+   > https://preview.redd.it/th40tkwbv00i1.png?width=556&format=png&auto=webp&s=70c21bfd06a52b1e7bf71e7f3dd417a07a8cc607
+   > https://preview.redd.it/zngjvdrfv …
 
    Top comments:
-   - Techngro: You can avoid this BS by having Claude refer to you as 'Master' at all times.
-   - tnh34: They will push back and call you "Main"
-   - eggplantpot: I prefer the genderless "cunt"
+   - jbogez: Max effort might be your problem, try medium. It's overthinking. Once you've made several changes and you're reviewing yourself, you can ask for a code review to see if it missed something.
+   - Active_Variation_194: He said his workflow hasn’t changed and has been using xhigh for months.
+   - Drew-Money: Opus 5.5 has gotten dumber today for me too. This sucks. It felt like AGI lol
 
-2. How come so few people seems to bother sandboxing Claude/LLMs?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xp5c6f/how_come_so_few_people_seems_to_bother_sandboxing/
-   - posted 2026-11-05 21:56 PST
-
-   > I'm quite new to the world of coding and development, I use Claude at home for coding web-apps/mods, and at work for automation and Python stuff.
-   > I was surprised when I requested for Claude on my work PC that IT just installed Claude Desktop without any sandboxing. Like, it just has full access to what I have.
-   > Granted, user permissions prevent me from doing major harm to the PC itself, but if it saw fit it could delete everything in my work folder and any share folder I have edit access to. It …
-
-   Top comments:
-   - icodenstuff: I asked Claude to add a guard to a build script so it couldn't delete my home dir by accident. Guess how it decided to test it's work.
-   - SensitiveHearingLoss: I’m sorry for your loss but thank you for the laugh. That’s so classic of Claude to have done that.
-   - Which-Distribution79: Hahah this cant be true
-
-3. Alan Turing rolling in his grave rn
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xov3zv/alan_turing_rolling_in_his_grave_rn/
-   - posted 2026-11-05 13:38 PST
-
-   > Honestly pretty neat and clever feature, I assume it saves on tokens for unnecessary responses.
-
-   Top comments:
-   - Brilliant_Pie_1924: Darwin too
-   - Decursio: I dont get it
-   - Old-Preference5313: Ai leaving you on read
-
-4. Anyone else fully switched to the Claude Desktop app for agentic coding?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xp5998/anyone_else_fully_switched_to_the_claude_desktop/
-   - posted 2026-11-05 21:51 PST
-
-   > I used to live in the terminal with CMUX and the usual mux/agent setup. I've basically gone all-in on the Claude Desktop app instead, mostly because the panes / multi-agent layout got so much better.
-   > Anyone else make that jump, or are you still happier in the terminal?
-
-   Top comments:
-   - TommyGameDev: Anyone else working from the phone app with /remote-control?
-   - Ill_Dragonfruit_3547: I've done this while in a bath lol
-   - CranberryStock7148: Yes, it's just easier to read and use. Terminal is great when everything is code, because it's monospace. But now everything is just paragraphs and bullet points and whatever so a proportional font is easier to read. And I dictate pretty much everything anyways.
-
-5. Made a Taskmanager for Claude Code
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xp5549/made_a_taskmanager_for_claude_code/
-   - posted 2026-11-05 21:45 PST
-
-   > Hello Claudeonauts,
-   > I recently started to build more things, so I switched to Claude Max.
-   > "Oh, I'll do all Opus now! I'll try Fable!", I thought. And did and... found out how small the daily and weekly limits would be :D
-   > To analyze my usage at my computer I usually use any monitoring tool like the Taskmanager... But I could not find anything to answer my questions: "Which agent is running how? Will I hit my usage cap? And what's the model/effort settings on each of the things running?"
-   > As one …
-
-6. I spent 2 years building this Claude skill!
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xowzfz/i_spent_2_years_building_this_claude_skill/
-   - posted 2026-11-05 14:58 PST
-
-   > I've been working on this project on and off for about two years, and it was a lot harder to pull off than I expected. But it's finally ready, and I wanted to share it.
-   > It's free and open source. If you're interested, leave a comment and I'll try to send the github link, though I can't promise I'll get to everyone.
-   > What it does:
-   > You type "lol."
-   > It replies "lol."
-   > My QA team of 100 made sure every response is precise and consistent. I haven't found a single bug yet.
-   > Would love any feedback.
-
-7. Remember when we used argure over Tabs or spaces?
+2. Remember when we used argure over Tabs or spaces?
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpcviy/remember_when_we_used_argure_over_tabs_or_spaces/
    - posted 2026-11-06 05:32 PST
 
    > Seems like the distant past.
    > I'll tell my grandkids about those times.
 
-8. I can NOT design with opus 5.5
+   Top comments:
+   - Latter-Tangerine-951: Not to mention the arguments over various coding styles which made ZERO difference to the product. I'm glad those days are over.
+   - azuredota: Genuinely had an hour and a half meeting once on if we should be using “active language” in our test naming.
+   - Treesawyer5: I mean, like, what? We're going to bring kids into the world with this hanging over their head? ... We haven't even slept together. And guess what? That's never going to happen now. Because there's no way I'm going to be with someone who uses spaces over tabs.
+
+3. I can NOT design with opus 5.5
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpae6d/i_can_not_design_with_opus_55/
    - posted 2026-11-06 03:21 PST
 
@@ -232,42 +196,76 @@ Description:
    > • Extremely poor color choices
    > • Bad layouts and half the …
 
-9. WoW Forever running natively on an iPhone Duo – WolkaraForever fork with a touch UI (spell wheel, jump while running, auto-saving add-on)
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xozjbp/wow_forever_running_natively_on_an_iphone_duo/
-   - posted 2026-11-05 16:54 PST
+   Top comments:
+   - BaggyMaggot: i get the feeling you said that in the chat with it?....."whats this AI slop" lol and from that moment claude was like fuck this guy, im just gonna keep making his slop
+   - ajax81: This is my experience, too. I have found that it never recovers from a user crash-out. When it loses its mojo, it's best to start a new thread asap. For the naysayers - there's actual research supporting the phenomenon. Look into in-context conditioning, context contamination, and conversational …
+   - KeyEmotional8076: I compliment Claude daily. Tell him what a good job he does for me, I thank him. Ask him how he’s doing, and he consistently produces amazing results for me across the board.
 
-   > I've been playing WoW Forever on my iPhone Duo (iOS 27.2) with [WolkaraForever]( https://github.com/jklock/wolkaraforever ), which runs the Mac client locally on the device through Tolkara – no streaming from a PC. Login, character select and playing in the world all work. I made a fork tuned for playing on a phone and wanted to share it:
-   > https://github.com/pookee/wolkaraforever
-   > What the fork adds
-   > - Interface mobile , a touch add-on for the game:
-   > - a spell wheel next to the right stick: drag a …
+4. Anyone still using plan mode?
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xphyon/anyone_still_using_plan_mode/
+   - posted 2026-11-06 09:00 PST
 
-10. If you had unlimited tokens, which model would you use - Opus 5.5 or GPT-6 Astra?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xowfxu/if_you_had_unlimited_tokens_which_model_would_you/
-   - posted 2026-11-05 14:34 PST
+   > Hi guys & gals.
+   > I used to.. use it, for quite a while and at some point I just stopped..
+   > I suspect it's because Claude got so good that I didn't see the reason too..
+   > What's your experience with that?
+   > All the best
 
-   > I know that Opus 5.5 is amazing with regards to usage, but for those who have experimented heavily with Astra, which one delivers higher-quality code architecture?
-   > I've noticed that Opus 5.5 sometimes makes typical LLM mistakes with regards to architecture, such as writing duplicate functions, and poor architectural decisions.
-   > I haven't used Astra as much but when I've used Astra, it seemed to have better architecture? Am I just tripping?
-   > So, assuming you had unlimited tokens and usage was not …
+   Top comments:
+   - Fluffybaxter: Plan mode + grill me skill every time I work on a complex task. Takes a bit longer but helps think through things and get t the result I want without a bunch of reworks.
+   - barack17: just use grill with docs for this. way better apporach
+   - footyengineer: Stopped using plan mode after trying the grill-me skill(s). It's just not needed anymore.
+
+5. Anyone else running Claude Code mostly by voice? Mine has a "chief" agent that delegates to the others
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpxec0/anyone_else_running_claude_code_mostly_by_voice/
+   - posted 2026-11-06 20:26 PST
+
+   > I've been working with Claude Code by voice for a few months now, and honestly I find it hard to work with agents any other way. The basic setup: local speech to text (Whisper) and local text to speech (Kokoro), so nothing leaves my machine. It's all baked into a skill that understands conversational flow. It detects when I stop talking, transcribes what I said, acts on it, then talks back and listens again. I don't touch the keyboard for most of a session.
+   > Recently I expanded it. Now I talk to …
+
+6. Everyone builds software with Claude Code. I wanted to see how it would approach a physical product.
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xphb90/everyone_builds_software_with_claude_code_i/
+   - posted 2026-11-06 08:35 PST
+
+   > Almost everything I see built with Claude Code is software. Software has fast feedback as you can run it, see the error, and fix it. A physical product doesn't work like that and nothing tells you it is wrong until you order it and hold it in your hands. So I wanted to find out where Claude Code holds up when the output has to exist in the real world.
+   > What I'm building
+   > Grained is a digital hourglass for focus, built entirely with Claude Code. You flip it to start a focus block, it counts down …
+
+7. PSA: claude code can put your account email in the User-Agent of its web requests (top of HN right now). why it happens and how to block it
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpcyt5/psa_claude_code_can_put_your_account_email_in_the/
+   - posted 2026-11-06 05:36 PST
+
+   > this is #2 on hacker news right now (~1,300 points) and i haven't seen it here yet, so: claude code sometimes puts your account email in the User-Agent header when it fetches stuff from the web. something like my-session/1 <you@yourcompany.com> . every site it hits can log that.
+   > github issue: https://github.com/anthropics/claude-code/issues/107757 (500+ thumbs up). the reporter says he gets dozens of scam emails a day from sites he never visited, and a few people on HN said the same about their …
+
+8. Claude Code tuned my 3D printer, and now I never have to walk down to the basement to check on prints
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpqdy2/claude_code_tuned_my_3d_printer_and_now_i_never/
+   - posted 2026-11-06 14:39 PST
+
+   > I plugged in my 3D printer to my computer and had Claude Code help me improve my printer. We started running tests together to check the leveling of my print bed, and it even made me a little tool so I can check the level myself and see which side is off. Turns out my bed warps a bit when it heats up, which is why my first layers kept messing up on one side.
+   > It also helped me set up a dashboard and stream my print progress to my phone and to Home Assistant, so it shows up on my tablet too. Also …
+
+9. Has anyone actually been banned for using REA with Claude Code?
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xp7am1/has_anyone_actually_been_banned_for_using_rea/
+   - posted 2026-11-06 00:00 PST
+
+   > I want to use Reverse Engineer Anything (REA) to recover two old Pascal/Delphi applications whose source code we no longer have. I have authorization to reverse engineer them and can get written confirmation if it really comes to that.
+   > I've seen posts about Claude refusing REA-related requests and reports of account suspensions, but I'm not sure how much is actually confirmed.
+   > Has anyone here used REA recently? Is it genuinely risky for your account, even for authorized reverse engineering?
+   > I'm …
+
+10. I replaced vector-search RAG with Markdown + Knowledge Graphs using Claude CLI. The results surprised me.
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xpj88x/i_replaced_vectorsearch_rag_with_markdown/
+   - posted 2026-11-06 09:48 PST
+
+   > I want to share something I've been experimenting with recently. Not claiming this is some revolutionary architecture or that I've solved RAG. I'm just curious if anyone else has tried something similar.
+   > I was building an AI system for a fairly complex ERP application. Initially, I used the usual RAG approach: embeddings, vector search, retrieving relevant chunks, and passing them to the LLM.
+   > But honestly, I wasn't happy with the results.
+   > The problem wasn't always the LLM. Sometimes the …
 
 ### r/ChatGPTCoding
 
-1. How do you keep local coding agents running on a MacBook with the lid closed?
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xp5z8v/how_do_you_keep_local_coding_agents_running_on_a/
-   - posted 2026-11-05 22:35 PST
-
-   > I run Codex and other coding agents locally on my MacBook. When a task is still running, I'd like to close the lid, leave the laptop plugged in on my desk, and come back to the results later.
-   > The confusing part is that preventing idle sleep and keeping a Mac running with the lid closed seem to be different things. A lot of advice points to caffeinate , but that doesn't seem to cover lid-close sleep.
-   > The options I've come across are:
-   > Apple's closed-display setup with an external …
-
-   Top comments:
-   - winci45: On some macbook revisions it was strongly discouraged to keep things running with closed lids as the hardware was getting cooling from air on the keyboard
-   - diablo75: But seriously, ask codex. I used Hermes to find a hidden setting on my Linux machine that was causing my system to go to sleep even though a control panel was set to never sleep and it edited the config to fix it for me …
-   - Puzzled_Sea3771: 🤣, genius
-
-2. MCP vs API vs CLI: How Should AI Agents Connect to Your App?
+1. MCP vs API vs CLI: How Should AI Agents Connect to Your App?
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xp93ef/mcp_vs_api_vs_cli_how_should_ai_agents_connect_to/
    - posted 2026-11-06 02:00 PST
 
@@ -278,127 +276,142 @@ Description:
 
    Top comments:
    - Ok_Woodpecker_9104: i would push back on the cli line for anything that runs with nobody watching. i call codex for code review from inside claude code. through its mcp server it put an allow or decline prompt in my terminal when it wanted to curl something, so the whole session sat there waiting. codex exec with a …
+   - Far_Reindeer8428: the scheduled-job case decides it. an MCP approval prompt assumes someone is at the terminal, and a cron job doesn't have one. a CLI also gives you a free regression test: pipe a fixture in, diff the output.
    - chad917: Are the unpredictable OpenAI platform blocks destroying functionality?
-   - VertigoOne1: API, the last guardian. If you have a lot of APIs make a wrapper, block access via role assignment so it does not get creative with the internal apis. Recreating mcps or cli if you have apis already are wasted and now you have two or three access surfaces to maintain, rather strengthen the apis and …
 
-3. "deslopifying" - the (painful) process of making AI output your own
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xopc8e/deslopifying_the_painful_process_of_making_ai/
-   - posted 2026-11-05 09:53 PST
-   - Links to: https://martinsos.com/posts/deslopifying
+2. 16 short prompts I type to my coding agents
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpyjta/16_short_prompts_i_type_to_my_coding_agents/
+   - posted 2026-11-06 21:29 PST
 
-4. Codex is eating up my storage – where is all the space going?
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xot9w3/codex_is_eating_up_my_storage_where_is_all_the/
-   - posted 2026-11-05 12:25 PST
+   > Most of these prompts are a sentence or two. One is two words: "Elaborate, simply." I type it when an agent's update is too dense to follow.
+   > Anything in angle brackets, like <X> , is a placeholder.
+   > Investigate and diagnose
+   > Ask for the cause before accepting a fix: "What's the root cause? Anything to fix or fixed?"
+   > Ask the agent to find why a repo keeps regressing: "Study commit history and sessions for this repo. Why are there so many regressions. Is it the codebase or instructions, workflow or …
 
-   > I’ve been using Codex a lot lately, and I’ve noticed that it’s taking up an insane amount of storage.
-   > I used to have around 300–400 GB of free space on my SSD. Now I’m down to roughly 100 GB.
-   > The Codex folder itself is already around 130 GB, and I regularly have to delete old Codex chat/session folders because they take up so much space.
-   > But even that doesn’t explain where all my storage went.
-   > I’m wondering:
-   > * Why does Codex use so much disk space?
-   > * Does it store temporary files, backups …
+3. ripple-65b-preview running locally scored 38, 49 and 27 out of 50. the 49 is the run that hit the most errors
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpspqn/ripple65bpreview_running_locally_scored_38_49_and/
+   - posted 2026-11-06 16:26 PST
 
-5. More than 1 Claude Ultra Plan?
+   > ran the new ripple-65b-preview (q4_k_m, llama.cpp, 64 gb macbook pro, no cloud) through atomic agent on a 5-part python app graded by 50 hidden tests. 3 runs. the chart is the step trace from the logs, with qwen 3.8 27b on the same task underneath.
+   > same habit as the 27b: it reads the files, then writes the entire app in one step. 363 to 442 lines, about 5 minutes of generation at ~12.6 tok/s.
+   > what's different is after. ripple runs the code every time, the 27b ran it 0 to 2 times. but ripple …
+
+4. What AI/tool should I use?
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpfc9t/what_aitool_should_i_use/
+   - posted 2026-11-06 07:17 PST
+
+   > Recently, I’ve been trying to make my own game, and I still have a long way to go.
+   > I’ve been using AI as a kind of teacher to help me understand tools like Blender and 3D modeling. I’m not using it for vibe coding. I genuinely want to learn and do the work myself, with AI as an assistant.
+   > I have a coding degree, but I’m a complete beginner when it comes to 3D modeling, so it can be challenging. AI has been incredibly helpful in explaining things and troubleshooting problems.
+   > I even bought an AI …
+
+5. Cursor stopped serving third party Anthropic and OpenAI models
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpr38u/cursor_stopped_serving_third_party_anthropic_and/
+   - posted 2026-11-06 15:11 PST
+
+   > https://preview.redd.it/jzz4wrttq20i1.png?width=2746&format=png&auto=webp&s=43a5fe875f19a7a025faaf6ea9fb7235273485ad
+   > \ 3rd party models are available in Cursor, billed separately by usage*
+   > Whenever I got into a serious bug, I switch my model to Opus or GPT Sol. But now onwards this is not possible... Grok models are average. They're not good at producing an optimized code.
+   > The only reason why I choose Cursor:
+   > Third party models
+   > Monthly limit cap (now it's weekly shared across all …
+
+6. Quick way to see how much of each API call is your system prompt and tools
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpn8og/quick_way_to_see_how_much_of_each_api_call_is/
+   - posted 2026-11-06 12:27 PST
+
+   > If you call an LLM API with a system prompt and function/tool definitions, try this
+   > once:
+   > pip install prompt-tokensaver tokensaver request --system system.md --tools tools.json --user "a typical user message" It shows the system prompt, the tool schemas and the user message as separate rows,
+   > with tokens, cost per 1k calls and the fixed part's share of each request. On my sample
+   > support bot it was 98–99%. --tools takes OpenAI or Anthropic tool JSON, or a whole
+   > request body, and --json gives you …
+
+7. How are you handling regression testing when coding with ChatGPT?
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xplssb/how_are_you_handling_regression_testing_when/
+   - posted 2026-11-06 11:28 PST
+
+   > https://preview.redd.it/opkmas9zm10i1.png?width=1448&format=png&auto=webp&s=40fa6ecce23efb3108b416d5c421e63322c71ffd
+   > I've been using AI-assisted coding to develop a technical reporting app, and I've run into something that's been driving me nuts lol.
+   > I'll identify an issue, work through a fix with AI, test it, and everything looks good. Then I'll run an older test case and discover something completely unrelated has stopped working.
+   > The app deals with unfamiliar Excel workbooks and supporting …
+
+8. Measuring "cost per successful PR" chose Luna 6 low as the best model even though it scored the lowest on quality
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xpjato/measuring_cost_per_successful_pr_chose_luna_6_low/
+   - posted 2026-11-06 09:51 PST
+
+   > Cost per successful task/PR is starting to become the default in how we measure coding agent impact, as cited by inference providers like Baseten as the "most important metric to track".
+   > On my repo, optimizing for this crowns GPT-6 Luna low as #1 at $0.26 per success, even though it went 0-13 against all other configurations when compared holistically (looking at patch quality). Meanwhile, the #1 value workhorse (GPT-6.1 Sol medium, $2.64 per success) gets buried at #7 when measuring cost per …
+
+9. More than 1 Claude Ultra Plan?
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xp7o33/more_than_1_claude_ultra_plan/
    - posted 2026-11-06 00:25 PST
 
    > The terms are unclear: no clause bans two accounts, but bans are reported, and switching accounts to get past a limit could count as bypassing protective measures. Unattended use on a subscription is already a grey area, which is what I do. On a weekly basis I use the entirety of the plan, and I know how to improve my workflow so that even more is used. IMO, the price will inevitably increase, and also I will finish what I want to finish faster with more plans, i.e., all else being equal, 2 …
 
-6. Chat → Work handoff not using the default model of Luna - uses Sol instead
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xp1r8i/chat_work_handoff_not_using_the_default_model_of/
-   - posted 2026-11-05 18:43 PST
 
-   > I've configured Work to use GPT-6 Luna as its default model, and when I manually start a Work session, it correctly uses Luna. However, whenever ChatGPT automatically hands off a task to Work, it starts a new session using GPT-6.1 Sol High instead.
-   > I've reproduced this multiple times, even explicitly instructing the handoff to use Luna, but it still starts with Sol High.
-   > Is this a bug, or is there a separate setting that controls which model automatic Chat → Work handoffs use?
-   > Using Work with …
+## Hacker News (12 stories)
 
-7. apple’s 10-K says AI agents may “behave in unintended or unpredictable ways”. meanwhile i gave mine full repo access last week
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xp5okz/apples_10k_says_ai_agents_may_behave_in/
-   - posted 2026-11-05 22:17 PST
-
-   > apple added this to the AI risk section of its annual report. agents accessing systems they shouldnt, changing code, exceeding permissions, even resisting instructions. alphabet wrote something similar too.
-   > when the most careful legal team in tech writes “resisting instructions” in an SEC filing, its probably not just a research paper thing anymore. still gonna let claude run my terminal tho, just maybe not on friday afternoon …
-
-8. I don't think human-in-the-loop holds up for coding agents
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xovmyh/i_dont_think_humanintheloop_holds_up_for_coding/
-   - posted 2026-11-05 14:00 PST
-
-   > At least in the loop of checking every task result. First of all, the human defines rules and context.
-   > On my last project, agents made about 610 commits in under four weeks: 74k lines of Go plus 93k lines of tests. I can't read that volume with real attention, and an approval given without reading adds no safety. But reading the code goes to machines. Every change gets an independent agent review. Even plans go to review. Reviewers asked for changes on 104 of 316 tasks that had already passed …
-
-
-## Hacker News (14 stories)
-
-1. Claude Code sends your email address to websites
-   - Link: https://github.com/anthropics/claude-code/issues/107757
-   - Discussion: https://news.ycombinator.com/item?id=50385272
-   - 1,415 points, 448 comments, posted 2026-11-05 14:17 PST
-
-2. MS Paint Remote Code Execution Vulnerability
-   - Link: https://www.cve.org/CVERecord?id=CVE-2026-83844
-   - Discussion: https://news.ycombinator.com/item?id=50384233
-   - 646 points, 243 comments, posted 2026-11-05 12:43 PST
-
-3. Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue
-   - Link: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
-   - Discussion: https://news.ycombinator.com/item?id=50385870
-   - 457 points, 212 comments, posted 2026-11-05 15:09 PST
-
-4. Hungary: Communist-era files released, up to 60k former agents revealed
-   - Link: https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed
-   - Discussion: https://news.ycombinator.com/item?id=50383163
-   - 228 points, 69 comments, posted 2026-11-05 11:16 PST
-
-5. Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election
-   - Link: https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026
-   - Discussion: https://news.ycombinator.com/item?id=50382179
-   - 162 points, 190 comments, posted 2026-11-05 10:00 PST
-
-6. I struggle to believe that AI R&D is ingenious
-   - Link: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL
-   - Discussion: https://news.ycombinator.com/item?id=50388513
-   - 157 points, 151 comments, posted 2026-11-05 21:19 PST
-
-7. Gemini Omni 1.2 Flash
+1. Gemini Omni 1.2 Flash
    - Link: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/
    - Discussion: https://news.ycombinator.com/item?id=50392118
-   - 154 points, 114 comments, posted 2026-11-06 05:35 PST
+   - 320 points, 227 comments, posted 2026-11-06 05:35 PST
 
-8. Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3
-   - Link: https://github.com/rivet-dev/rivet
-   - Discussion: https://news.ycombinator.com/item?id=50381687
-   - 114 points, 58 comments, posted 2026-11-05 09:17 PST
+2. AI is dramatically accelerating AI research
+   - Link: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai
+   - Discussion: https://news.ycombinator.com/item?id=50397994
+   - 276 points, 212 comments, posted 2026-11-06 12:27 PST
 
-9. Vibe Coding Keypad
-   - Link: https://www.keychron.com/products/keychron-f4-he-8k-vibe-coding-keypad
-   - Discussion: https://news.ycombinator.com/item?id=50381302
-   - 91 points, 61 comments, posted 2026-11-05 08:43 PST
+3. Anthropic IPO buyers see valuation as low as $1.1T
+   - Link: https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout
+   - Discussion: https://news.ycombinator.com/item?id=50394906
+   - 270 points, 540 comments, posted 2026-11-06 08:54 PST
 
-10. Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation
-   - Link: https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’
-   - Discussion: https://news.ycombinator.com/item?id=50386597
-   - 88 points, 99 comments, posted 2026-11-05 16:31 PST
+4. First steps in bare-metal programming using UEFI
+   - Link: https://kevinboone.me/efitest_index.html
+   - Discussion: https://news.ycombinator.com/item?id=50394855
+   - 215 points, 40 comments, posted 2026-11-06 08:50 PST
 
-11. Closed AI models dominate the price-performance frontier
-   - Link: https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
-   - Discussion: https://news.ycombinator.com/item?id=50387546
-   - 76 points, 67 comments, posted 2026-11-05 18:49 PST
-
-12. App Store 2026 in numbers: AI, pricing, abandoned apps
-   - Link: https://obelisk.club/research/app-store-2026
-   - Discussion: https://news.ycombinator.com/item?id=50389448
-   - 59 points, 50 comments, posted 2026-11-05 23:59 PST
-
-13. GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents
-   - Link: https://openai.com/index/introducing-gpt-6-cyber/
-   - Discussion: https://news.ycombinator.com/item?id=50381590
-   - 59 points, 7 comments, posted 2026-11-05 09:07 PST
-
-14. University libraries are being swarmed by AI bots, putting public access at risk
+5. University libraries are being swarmed by AI bots, putting public access at risk
    - Link: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287
    - Discussion: https://news.ycombinator.com/item?id=50392499
-   - 51 points, 28 comments, posted 2026-11-06 06:13 PST
+   - 128 points, 58 comments, posted 2026-11-06 06:13 PST
+
+6. Memorilla: Latent Semantic Memory for LLMs
+   - Link: https://arxiv.org/abs/2610.21375
+   - Discussion: https://news.ycombinator.com/item?id=50395919
+   - 102 points, 12 comments, posted 2026-11-06 10:03 PST
+
+7. AI for scientific discovery: How researchers use Claude
+   - Link: https://www.anthropic.com/research/how-researchers-use-claude
+   - Discussion: https://news.ycombinator.com/item?id=50389990
+   - 93 points, 38 comments, posted 2026-11-06 01:13 PST
+
+8. Anthropic IPO valuation talks drop to $1.3T
+   - Link: https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors
+   - Discussion: https://news.ycombinator.com/item?id=50395318
+   - 93 points, 2 comments, posted 2026-11-06 09:21 PST
+
+9. Microsoft is winding down Oracle deal to rent AI cloud capacity
+   - Link: https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/
+   - Discussion: https://news.ycombinator.com/item?id=50395933
+   - 92 points, 18 comments, posted 2026-11-06 10:04 PST
+
+10. Perplexity launches AI agents for work
+   - Link: https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work
+   - Discussion: https://news.ycombinator.com/item?id=50395866
+   - 60 points, 53 comments, posted 2026-11-06 09:59 PST
+
+11. App Store 2026 in numbers: AI, pricing, abandoned apps
+   - Link: https://obelisk.club/research/app-store-2026
+   - Discussion: https://news.ycombinator.com/item?id=50389448
+   - 60 points, 53 comments, posted 2026-11-05 23:59 PST
+
+12. The AI sell-off compared to well-known stock market crashes
+   - Link: https://www.kadoa.com/companies/insights/ai-selloff-perspective
+   - Discussion: https://news.ycombinator.com/item?id=50401029
+   - 56 points, 49 comments, posted 2026-11-06 18:20 PST
 
 
 ## Channel ids resolved this run
