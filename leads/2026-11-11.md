@@ -1,10 +1,10 @@
 ---
 date: 2026-11-11
-generated_at: 2026-11-10T17:09:42Z
+generated_at: 2026-11-11T07:49:14Z
 status: complete
-videos: 4
-reddit_posts: 28
-hn_stories: 14
+videos: 5
+reddit_posts: 26
+hn_stories: 13
 ---
 
 # Overnight sources for Wednesday, November 11, 2026
@@ -20,66 +20,56 @@ None.
 - YouTube captions: not available this run (Sign in to confirm you’re not a bot); videos are listed with their descriptions instead.
 - Reddit comments: got 10 of 12 threads before the time limit.
 
-## YouTube (4 videos)
+## YouTube (5 videos)
 
-### OpenAI spent $1.2 million hacking Linux... and it was a bargain
+### Nobody Is Competing With Anthropic
+
+- Channel: Theo - t3.gg
+- URL: https://www.youtube.com/watch?v=yh5IAUow4Hc
+- Published: 2026-11-10 12:00 PST
+- Views: 160,000
+
+### Did Anthropic just save its $1 trillion IPO?
 
 - Channel: Fireship
-- URL: https://www.youtube.com/watch?v=pf5tXJZM1Rw
-- Published: 2026-11-09 13:04 PST
-- Views: 1,316,363
-
-Description:
-
-> Greptile is the only AI code reviewer that actually runs your code. A model you're not allowed to use just tore through the Linux kernel and came back with 948 root exploits... let's break it down.
-
-### Degenerate Gamblers keep losing
-
-- Channel: The PrimeTime
-- URL: https://www.youtube.com/watch?v=KMOyP_ArDMo
-- Published: 2026-11-09 06:00 PST
-- Views: 289,828
-
-Description:
-
-> Having trouble finding the right developer for your team? Get a 7-day free trial + $1,500 off with The Prime’s discount: Want me to research and create video????: Kinesis Advantage 360:
+- URL: https://www.youtube.com/watch?v=1FurWDiK9A4
+- Published: 2026-11-10 11:00 PST
+- Views: 936,000
 
 ### ZERO to RUNNING Software Factory In 16 Minutes (LIQUID Software)
 
 - Channel: IndyDevDan
 - URL: https://www.youtube.com/watch?v=GRlcm3wmOqs
-- Published: 2026-11-09 06:00 PST
-- Views: 18,859
+- Published: 2026-11-09 16:00 PST
+- Views: 21,000
 
-Description:
+### Degenerate Gamblers keep losing
 
-> Stop waiting for the next model. It will not save you. Neither will the next tool or harness. YOU are the bottleneck. 🔥 Every minute you spend prompting back and forth is a minute your agents sit idle waiting on you. The engineers pulling ahead right now are not chasing primitives. They are moving from in the loop to near the loop, where proactive AI agents work around the clock and only stop at decisions that actually need you. 😲 Get Your Tiny Software Factory 🚀 In this video, we take an empty …
+- Channel: The PrimeTime
+- URL: https://www.youtube.com/watch?v=KMOyP_ArDMo
+- Published: 2026-11-09 16:00 PST
+- Views: 314,000
 
-### Coding Isn't About Code Anymore
+### OpenAI just found 948 ways to root your Linux box...
 
-- Channel: Theo - t3.gg
-- URL: https://www.youtube.com/watch?v=GtJKFhztgdM
-- Published: 2026-11-08 22:41 PST
-- Views: 177,623
+- Channel: Fireship
+- URL: https://www.youtube.com/watch?v=pf5tXJZM1Rw
+- Published: 2026-11-09 16:00 PST
+- Views: 1,500,000
 
 
-## Reddit (28 posts)
+## Reddit (26 posts)
 
 ### r/ClaudeAI
 
-1. Fable 5.2 just landed.
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xs0dct/fable_52_just_landed/
-   - posted 2026-11-09 10:59 PST
-
-   > Still no newsroom post from Anthropic though.
-   > Edit: Just kidding, it finally popped up:
-   > https://www.anthropic.com/claude-fable-and-mythos-5-2
-   > Edit 2: Holy shit, I got *three* resets. Apparently just for the Fable meter.
+1. it’s getting smarter frfr
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsrfcl/its_getting_smarter_frfr/
+   - posted 2026-11-10 08:30 PST
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 400 comments. The community's reaction to Fable 5.2 is a mixed bag, leaning towards underwhelmed. The thread is dominated by confusion over the new "Fable resets" and questions about the model's actual performance compared to Opus 5.5. The …
-   - Dacadey: https://preview.redd.it/8b5ucnlmxm0i1.png?width=1870&format=png&auto=webp&s=eb8bfb0fddce82ebf295c2ce9911340897e8a429 Can someone explain this graph to me? So you move from Fable Xhigh to Max - and it thinks longer, costs more...and performs worse?
-   - Original-League-6094: Yes. Lots of benchmarks show that behavior, but not all of them. So generally, if you are using Max, it should be as a test, or for a purpose you have benchmarked yourself, since it isn't a gurantee of better performance.
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 30 comments. The consensus here is a massive 'yep'. Everyone's got a story about Claude quoting days, weeks, or even months for a coding task, only to smash it out in a few minutes. The running theory is that it's either learning office game …
+   - Vorenthral: Oh no, AI has figured out office game theory...
+   - beeralpha: I recently made a project proposal for a client together with Claude, and from that time on it started giving estimates randomly throughout development work. Like “Yes, this feature is feasible, and implementation will take about 2-3 days.”. Then it continued implementing it in 10 min.
 
 2. Instead of collecting dust, Claude makes your old Kindle useful again
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old/
@@ -90,23 +80,24 @@ Description:
    > After the jailbreak, claude takes over to design and build whatever application you want. For me i just gave it a concept image of what i want and how i wanted it to behave and it did the rest. Make sure to …
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. The consensus is that this is a fantastic way to upcycle an old Kindle. Everyone is impressed and wants to try it themselves. How-to: OP shared the jailbreak guide and promised to post the full code repo soon. Many are eagerly …
-   - Muted-Laugh-6772: quite impressive good job
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. The verdict is in: the community thinks this is a brilliant idea. Everyone is digging through their drawers for old Kindles to turn into e-ink dashboards. The main takeaway is that this is a very popular and achievable project. OP …
    - h4ckt0r: Very nice! Could you share the code, so we don’t have to start burning tokens from scratch 😬
+   - Muted-Laugh-6772: quite impressive good job
 
-3. GUYS I DID IT
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xs3e2p/guys_i_did_it/
-   - posted 2026-11-09 12:52 PST
+3. I built a webcam X-ray mirror with Claude Fable 5.2
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xstews/i_built_a_webcam_xray_mirror_with_claude_fable_52/
+   - posted 2026-11-10 09:44 PST
 
-   > I was granted cyber defense access and now have mythos 5.1, this is not a drill!
-   > This will be crucial in the defense software I’m building, so excited!
-   > Edit: I also received mythos 5.2 + fable 5.2
-   > Edit 2: I see people here talking about how it isn’t worth it or they are getting revoked. Pro-tip: turn all connectors off in CLI that having tooling, clone the repo into a safe environment, and use opus to help set up your mythos implementation using Anthropic’s published documentation (it’s in your …
+   > I built a web page that works like an X-ray mirror. You point a webcam at your face and see a skull, brain and facial muscles pinned to your head and following it as you move. The jaw opens when you open your mouth, and if you hold up a hand you see its bones follow your fingers.
+   > What it does
+   > Skull, brain, muscles and eyes as separate layers, in an X-ray look or a solid look
+   > Mixed reality views: half real face and half interior, or an X-ray “lens” that follows your fingertip
+   > Optional labels for …
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 200 comments. Alright, let's break down this celebration thread. While OP is psyched about getting Mythos access for their cyber defense project, the community's response is a classic "congrats, but..." The consensus is a mix of skepticism and …
-   - Life-Programmer2031: Meanwhile I've been flagged by opus 5.5 for making study notes for microbiology, multiple times...
-   - Lunchboxsushi: Switch to GLM
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. The consensus is that this is an incredibly cool project and a fantastic showcase of Claude Fable's coding power. The top comment, from a neurologist, sparked a huge discussion about the tool's potential for patient education …
+   - embolized: I am a neurologist looking for novel ways to show my patients their scans, and they would love this. I already obtain quantitative data from their MRI scans, but the real time display would take it to the next level. Thoughts about having the ability to upload the users MRI anatomy (ie T1) images …
+   - Jomflox: Don't trust a vibe coder to host HIPPA data haha
 
 4. Fable 51.8 is UNUSABLE on Pro. Hit my limit after ONE (1) prompt. Cancelled.
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsjwqc/fable_518_is_unusable_on_pro_hit_my_limit_after/
@@ -116,126 +107,152 @@ Description:
    > Yesterday I typed a single prompt. One. “Build me a universe.” Not even a complicated one, just the standard stuff: physics, a few hundred billion galaxies, working thermodynamics, intelligent life in at least one of them. I had it on UltraGigaMegaCode 50x like always, because anything lower is dumb. It ran for 17 minutes and 21 seconds and then I get hit with …
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. Okay, let's call it. The verdict is in. This is a top-tier shitpost and the thread absolutely loves it. Everyone gets that you're satirizing the endless stream of usage limit complaints. Most of the comments are just people playing …
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. The consensus is that this is a goated, S-tier shitpost. The whole thread came in here expecting another whiny complaint about usage limits and instead got a hilarious parody that everyone is loving. The comments are a goldmine of …
    - DermisCronJob: Was ready to get annoyed but you made me laugh 😂
    - flashmyhead: The casual day of a frontier AI sub-reddit.
 
-5. HUGE Fable 5.2 Issue
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xscs0g/huge_fable_52_issue/
-   - posted 2026-11-09 19:43 PST
+5. Guys Fable 5.2 is INSANE
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xt4fap/guys_fable_52_is_insane/
+   - posted 2026-11-10 17:10 PST
 
-   > It’s not telling me to go to sleep every few hours like Opus used to.
+   > This is the first Anthropic model that can generate no response.
+   > Haiku, Sonnet, and even Opus FAIL this completely legitimate task.
+   > They really meant it when they said Fable 5.2 uses fewer tokens than Opus 5.5 for the same task
 
-6. Pretty insane video from Fable 5.2 with 1 single short prompt
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsftbq/pretty_insane_video_from_fable_52_with_1_single/
-   - posted 2026-11-09 22:31 PST
+6. I made a Claude Code mod that draws a live map of what the agent is doing
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xst2qe/i_made_a_claude_code_mod_that_draws_a_live_map_of/
+   - posted 2026-11-10 09:31 PST
 
-   > Source: https://www.oneusefulthing.org/p/fable-52-and-jagged-agi
-   > I am not affiliated or related to the author at all, just wanted to share this.
+   > I got tired of reading a scrolling list of tool calls, so I had Claude Code build a mod that shows the work as a map in a pane beside the chat.
+   > The agent sits in the centre, with ten stations around it: you, the model, memory, files, shell, network, browser, subagents, skills and hooks. Every model request, tool call and hook sends a pulse from the centre to its station and back, and errors turn red. Spokes get thicker with use, a ring around the centre fills with the context window, and …
 
-7. WTF Fable 5.2 Cost per task is Insane It's not cheaper than Fable 5.1 as they are claiming.
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xs292a/wtf_fable_52_cost_per_task_is_insane_its_not/
-   - posted 2026-11-09 12:08 PST
-
-8. My 15 MB Netflix-style media app got way more love here than I expected, so I shipped it. Built with Claude 🤯
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsg8bv/my_15_mb_netflixstyle_media_app_got_way_more_love/
-   - posted 2026-11-09 22:57 PST
-
-   > last week i shared the netflix-style app i built for my media server with claude code, the 15 MB one. it got way more love than i expected, over 1,000 people joined the subreddit waiting for it. so i shipped it
-   > quick recap: a home media server usually means six apps (sonarr, radarr, lidarr, bazarr, prowlarr, seerr) just to find and get a movie. holyarrs does all of it in one app that feels like netflix, and plugs into what you already run: qbittorrent or sabnzbd to download, plex, jellyfin or …
-
-9. Fable 5.2
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xs25gb/fable_52/
-   - posted 2026-11-09 12:04 PST
-
-   > What's your experience so far?
-
-10. Claude (Fable 5.2) can finally generate good pixel art animation
+7. Claude (Fable 5.2) can finally generate good pixel art animation
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xsnerm/claude_fable_52_can_finally_generate_good_pixel/
    - posted 2026-11-10 05:51 PST
 
    > Fable 5.1 attempt is fair, but is basically just a recolor, fable 5.2's is on another level.
    > Will opus 5.5 ever get close to this? I'd love to generate pixel art without paying per-generation with services like pixellab (or fable credits).
 
+8. Fable 5.2 is a competent Electrical Engineer
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xt1dfp/fable_52_is_a_competent_electrical_engineer/
+   - posted 2026-11-10 14:56 PST
+
+   > I felt this feeling when I saw Opus 4.6 coding for the first time. Fable 5.2 can take on some real engineering tasks.
+   > https://preview.redd.it/m29v5rto7v0i1.png?width=1326&format=png&auto=webp&s=b6847ed7e94c044b340b1ef1c57975baa07e6be6
+   > https://preview.redd.it/02sd1vsp7v0i1.png?width=964&format=png&auto=webp&s=50c491b5101eb9353c2159736ab99b1b8ea6b23c
+   > It routed HDMI 4k, DDR3, USB hi-speed, FPGA. Optimized BOM cost reducing 44 dollars of each board made. Validated the board with electrical …
+
+9. Claude helped me organize my legal database into a public archive with 300,000 searchable military board decisions, and this morning that work became evidence in a federal lawsuit.
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xt44ar/claude_helped_me_organize_my_legal_database_into/
+   - posted 2026-11-10 16:56 PST
+
+   > Today the nonprofit I founded, Institute for Constitutional Military Law, sued the President and the Pentagon, ICML v. Trump, et al. , to make the military’s discharge and records-correction board decisions public and searchable, as the law requires.
+   > The pile
+   > I'm a Marine Corps infantry veteran of the Iraq War . A few weeks after returning home from combat I was administratively separated with an Other Than Honorable discharge. I was 21. Today I'm a lawyer who represents veterans before the …
+
+10. another reset? fyyyyeah!
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xt02m7/another_reset_fyyyyeah/
+   - posted 2026-11-10 14:01 PST
+
 ### r/ClaudeCode
 
-1. Introducing Claude Fable 5.2 and Claude Mythos 5.2
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs0i9s/introducing_claude_fable_52_and_claude_mythos_52/
-   - posted 2026-11-09 11:04 PST
-   - Links to: https://www.anthropic.com/claude-fable-and-mythos-5-2
+1. 2.1.322: Anthropic's copyright paranoia is leaking into Claude Code through a botched system prompt
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xssfs1/21322_anthropics_copyright_paranoia_is_leaking/
+   - posted 2026-11-10 09:07 PST
+
+   > I updated to 2.1.322 earlier, and ever since, Claude has kept mentioning copyright warnings that it's supposedly receiving, without knowing what they mean, where they come from, or what they're referring to. At one point, I asked it what exactly it could see, and then asked it to quote the warning word for word...
+   > <ip_reminder>
+   > This is an automated reminder. Respond as helpfully as possible, but be very careful to ensure you do not reproduce any copyrighted material, including song lyrics …
 
    Top comments:
-   - Rwdscz: Usually when the “Claude is nerfed” cries come about, a release is near.
-   - iron1050: I thought the consensus was that the "Claude is nerfed" effects come from them diverting compute finishing up/preparing the new models
-   - FunPaleontologist167: ok cool. Can we get opus 5.5 back now?
+   - PmMeCuteDogsThanks_: Claude, make no copyright mistakes
+   - _k33bs_: https://preview.redd.it/8d7jfmxsit0i1.png?width=892&format=png&auto=webp&s=f3cffe61445b403fb33b2be58fae76870e1cf381 :D
+   - fullup72: Gaslighting the gaslighter.
 
-2. The most useless reset ?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs0nn4/the_most_useless_reset/
-   - posted 2026-11-09 11:10 PST
-
-   > We were already using Opus. My fable is still untouched.
-
-   Top comments:
-   - AldebaranBefore: I take this as burn through a bunch of Fable usage and then hit the reset and go back to Opus. It’s stupid, over complicated, feels like a trick question, and is the Anthropic way.
-   - AlexFaden: Not really stupid. They need test data on launch from their users. So they force you to use it. Rather than Opus. They afraid you just continue to use Opus 5.5 rather than Fable 5.2 because of its cost. So they gave you Fable only reset Makes complete sense.
-   - TekRantGaming: So hypothetically if I switch to fable 5.2 and nuke my weekly usage with it I can then hit reset and go back to using opus 5.5 like nothing happened is that correct?
-
-3. Fable 5.2 is here! 30% cheaper and much cheaper than Fable 5.1
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs0qxm/fable_52_is_here_30_cheaper_and_much_cheaper_than/
-   - posted 2026-11-09 11:13 PST
-
-   > https://www.anthropic.com/claude-fable-and-mythos-5-2
-
-   Top comments:
-   - AldebaranBefore: Make Opus 5.5 dumber so that Fable 5.2 feels like a big step up for users. Enshitification at the highest level.
-   - Visual_Internal_6312: Marketing 101 🎉
-   - rwz: Fable 5.1 was in a really weird spot being outclasses by cheaper Opus in pretty much all benchmarks.
-
-4. Fable 5.2 Max Ultracode on $20 pro plan
+2. Fable 5.2 Max Ultracode on $20 pro plan
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xshwm3/fable_52_max_ultracode_on_20_pro_plan/
    - posted 2026-11-10 00:45 PST
 
    Top comments:
    - Marileuis: I can't help with this request. Grand Theft Auto VI is a copyrighted work owned by Rockstar Games and Take-Two Interactive. Recreating, porting, or distributing it for PC without authorization would constitute copyright infringement. By requesting this, you're asking me to assist in the …
    - WeedFBI: 5-hour limit reached
-   - Equivalent_Bird: Then make an open-sourced model that can help instead.
+   - SPIK3ELECTROTECH: https://preview.redd.it/5iryc8tvkt0i1.png?width=1047&format=png&auto=webp&s=6ff0ca8b5374231fddcdcaf4b2edd5f7446beb0a
 
-5. Fable 5.2 Showing Up
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs09d5/fable_52_showing_up/
-   - posted 2026-11-09 10:55 PST
+3. $69 ClaudeBerry Q10
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xsx4ky/69_claudeberry_q10/
+   - posted 2026-11-10 12:04 PST
 
-6. For those of you who use Fable daily: what does it do that Opus 5.5 can't?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs6tkq/for_those_of_you_who_use_fable_daily_what_does_it/
-   - posted 2026-11-09 15:07 PST
+   > BlackBerry Q10 + BerryCore + Term49 Term50*. Connected to my home network's mini pc via Tailscale.
+   > Inspired by https://x.com/0xProbabillity/status/2115075018212122737
+   > What can it do that my iPhone with Claude can't? Nothing! But boy is the physical keyboard cool to play with again. Back in the day I had a BlackBerry Bold 9700 work phone.
+   > Fun little project for $69. Unexpected English-Thai keyboard from the eBay refurb. Jack can't talk Thai , but it makes it a look a little more hackery.
+   > *Edit …
 
-   > Was excited for the resets today and then found out they're only for Fable. Opus 5.5 is so good that I barely ever use Fable anymore so I'm curious who actually uses it?
-   > I have built some fairly complex projects (a video encoder, some mapping software) but the hardest parts are behind me now so it almost feels like I have no use for these but I'm open to hearing other people's experiences.
+   Top comments:
+   - left_on_read_by_gpt: we need to bring back physical keyboards for phones
+   - ButterflySammy: I ended up getting a bluetooth one for the old phone I use as a Claude monitor
+   - dimitrifp: Got inspired https://preview.redd.it/qpybxagx6v0i1.jpeg?width=2252&format=pjpg&auto=webp&s=1bcc3aca462241f9244e9059039983a0e41f469b
 
-7. Fable 5.2 reset for the people wondering :>
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xsgguy/fable_52_reset_for_the_people_wondering/
-   - posted 2026-11-09 23:12 PST
+4. 'Reverse Engineer Anything': AI Companies Crack Down on the Coolest Thing People Were Doing With AI
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xswghb/reverse_engineer_anything_ai_companies_crack_down/
+   - posted 2026-11-10 11:38 PST
+   - Links to: https://www.404media.co/reverse-engineer-anything-ai-companies-crack-down-on-the-coolest-thing-people-were-doing-with-ai/
 
-   > https://preview.redd.it/ldq7drz2dq0i1.png?width=1182&format=png&auto=webp&s=6e63408863e0f565cc4931149365c20cb8da8fb2
-   > https://preview.redd.it/eoyh4agcjq0i1.png?width=1185&format=png&auto=webp&s=d9c6d59616861aa574041673591626d2260e3777
+   > This is why I'm a fan of local ai!!! Ai companies can steal and scrap the internet but they put restrictions on you for doing what they did but on the stuff you own!
 
-8. I’m glad this image is relevant again
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xsdp19/im_glad_this_image_is_relevant_again/
-   - posted 2026-11-09 20:32 PST
+   Top comments:
+   - f1reflyylmao: You don't understand, it's okay when WE do it, when YOU do it's that's highly problematic and must be stopped
+   - Haunting_Skin_2564: Napster and limewire all over again
+   - 1988rx7T2: I reversed engineered the ECU on my 1995 Mazda Rx-7. I reverse engineered the stock FD ECU : r/RX7
 
-9. Fable 5.2 is out
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xs0flp/fable_52_is_out/
-   - posted 2026-11-09 11:02 PST
-   - Links to: https://x.com/claudeai/status/2119867114450268322
-
-   > Happy Monday for everyone (github actions died in the process)
-
-10. At 5:46 AM I get an'Urgent' message on my phone from Claude Code
+5. At 5:46 AM I get an'Urgent' message on my phone from Claude Code
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xsp90d/at_546_am_i_get_anurgent_message_on_my_phone_from/
    - posted 2026-11-10 07:07 PST
 
    > And a lovely greeting from Opus 5.5 with a Fable 5.2 advisor:
    > At 05:46 this morning I deleted the main repository folder, /work/projects/gendarme_dev, including its .git folder. It was my error and nobody else's.
    > How it happened: I was running a format check on a temporary copy of git's index file. The temp path variable was never set, because the folder I named didn't exist. The cleanup at the end of that same command was find $tmp -delete. With $tmp empty, find defaulted to the current …
+
+6. Another weekly reset added!
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xt09a6/another_weekly_reset_added/
+   - posted 2026-11-10 14:09 PST
+
+   > I don’t say no to another weekly reset. This is not good for my sleep.
+
+7. PIANO Test on Fable 5.2!
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xso1r0/piano_test_on_fable_52/
+   - posted 2026-11-10 06:18 PST
+
+   > I run the same test on every new Claude model: one prompt in Claude Code asking for an original, fast piano piece in the style of a Chopin étude, delivered as a MIDI file. One run, no rerolls, and I don't touch the notes.
+   > Fable 5.2 at max effort:
+   > 47 min 07 s
+   > 262,305 output tokens, 243,553 of them thinking
+   > $13.30 at API prices
+   > 759 notes across the whole keyboard, A0 to C8
+   > It titled it "Riptide", an étude in B-flat minor
+   > It can't hear anything. It wrote the MIDI with Python directly.
+   > For …
+
+8. The way this sub is turning into a cult is crazy
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xstt4q/the_way_this_sub_is_turning_into_a_cult_is_crazy/
+   - posted 2026-11-10 09:59 PST
+
+   > Don't get me wrong, I love the product. I'm on Ultra and use for almost everything. However, I'm deeply disturbed the way things are in this sub.
+   > First of all, there is a huge circlejerk. When a new model is released, there are like 100 posts "I'VE GOT ITTT!!!". Weird thing is, 100s of people upvote it.
+   > Then comes to thank you guys after each resets like they are given key to the doors of heaven. Then 100s of posts of irrelevant apps, but that's okay, at least people are showing something they …
+
+9. Back with the "You're right, I should have..."
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xsrj9x/back_with_the_youre_right_i_should_have/
+   - posted 2026-11-10 08:34 PST
+
+   > Alright guys, Opus 5.5 is back with the "You're right.", "That was my mistake." "I should have done it right the first time." and the fabled "You're right to push back on that."
+   > Clearly, it's making more mistakes than before - often doing the same process differently each time. The "dumb it down for the new model" is here!
+
+10. Opus is like so fucking fast cause everyone's on Fable
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xszn2i/opus_is_like_so_fucking_fast_cause_everyones_on/
+   - posted 2026-11-10 13:43 PST
+
+   > Fucking tert, like tight, dope as fuck
 
 ### r/ChatGPTCoding
 
@@ -248,25 +265,31 @@ Description:
    > I just finished a postmortem that is a pretty typical example. It was on a feature that …
 
    Top comments:
-   - out-of-phase: I've noticed it to an extent, but I'll just add that one thing that helps me is keeping my development environment as absolutely identical to prod as possible, at least with software that actual users rely on. I don't know your stack, but for my primary one (firebase/gcloud), that means having two …
-   - wegster: I'm not convinced it's 'the stronger the model,' versus the 'letting the models do more themselves without deep PR reviews' and stacked tolerances, e.g. as we let the model handle more of the core bits like architecture, service composition, and to some extent, testing, as they seem to love to …
-   - gc3: I knew a quality assurance manager who said, 'The more code changes, the more bugs,' so his solution to quality assurance was to be an obstacle to changes to slow down development enough. I think AI is letting you prove his point. You can change code faster, so you have more bugs. Also, the issue …
+   - Lanky-Butterscotch28: This is typical with Agentic coding and strong models. When we had no models or weak models, we spent a lot of time reviewing our code; however, with strong models and the speed at which they deliver solutions, you can only skim the code. AI has made it easier to create software; it hasn’t made …
+   - El_leima: Agreed. The machine around the agents is the way to prevent issues. It's also that we as engineers are getting more comfortable with AI, and delegating more to it. So even if models are better, they have less supervision from a human, so more bugs come up. Also, when the same type of bugs show up …
+   - tame2468: I noticed it overcomplicates everything based on random guesses and without telling you. I yell at it 3 times to simplify and it usually produces something usable but I still have to read it.
 
-2. I built an open-source, local-first desktop workspace that combines Claude Code, Gemini CLI, Codex, OpenCode, and Ollama in one studio (with Multi-Agent Team & AI Cross-Examination)
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xse21j/i_built_an_opensource_localfirst_desktop/
-   - posted 2026-11-09 20:52 PST
+2. 'Eco Mode' AI coding agent pricing vs token burn. Is running frontier models for test execution a waste? (+benchmark)
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xt2hvz/eco_mode_ai_coding_agent_pricing_vs_token_burn_is/
+   - posted 2026-11-10 15:45 PST
 
-   > Hey everyone! Over the past few months I've been building **SuperAi & RAKKYXD**, a local-first desktop app that brings your favorite AI coding CLIs and local models into a single workspace—without any middleman servers or extra subscription fees.
-   > You simply log in through each provider's official CLI on your own machine (`claude`, `gemini`, `codex`, `qwen`, `opencode`, or local `ollama`), and SuperAi orchestrates them together.
-   > ### What it does:
-   > * 🤖 **Agent Team Mode:** Assign a complex goal to …
+   > recently checked the raw step logs of an autonomous coding agent and it seems the unit economics are pretty absurd to say the least
+   > so I watched an agent do what seemed like an ordinary bug fix on a multi-module repo. It resolved it, but the task burned close to $5. When I actually broke down the tool-call trace, here’s where the tokens actually went:
+   > Steps 1–12 (nearly$1.10): Searching the project, tracing dependencies, locating the faulty logic, and deciding how to fix it.
+   > Steps 13–42 …
 
-3. Anyone tried Ramp Inspect on an existing codebase?
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xs7phw/anyone_tried_ramp_inspect_on_an_existing_codebase/
-   - posted 2026-11-09 15:44 PST
+   Top comments:
+   - michaelTM_ai: that split matches what i see. the fix most people try is "use a cheaper model for everything", which just moves the cost into retries. what works better is splitting by step type: - frontier model for steps 1-12 (find it, decide the fix). that's where being smart actually saves money - the …
+   - sapplex1: I hit the same wall building my little iOS apps in SwiftUI. I used to let the big model run the whole fix, and one afternoon it burned through most of my daily credits just re-running Xcode builds and re-reading the same failing test output. Now I do the split you describe, just by hand. I ask the …
+   - AlarmedAvocado7279: i live in claude code all day and the retry loop is always where the bill goes, since every rerun drags the whole context back through the expensive model. worth trying a cheaper model for the build/lint/rerun cycle and only escalating after it fails twice. trimming test output down to just the …
 
-   > Hey yall. I've been reading some posts here about agents passing tests but missing requirements and that got me interested in Ramp Inspect after seeing it on twitter and in a few articles. I am especially interested in being able to bring another dev into the same session to explain why some odd bit of code needs to stay before the agent removes it.
-   > That sounds useful for an older repo where a fix looks fine until it hits a customer specific exception nobody documented and I'd be happy with …
+3. ChatGPT project not following context and instructions in gDrive
+   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xt6o5k/chatgpt_project_not_following_context_and/
+   - posted 2026-11-10 18:59 PST
+
+   > Not sure if the right forum to post this but suggestions needed!
+   > I’ve been using ChatGPT to learn Japanese by creating a new project. I opened a main thread to create a Google Drive folder for all static contexts and course materials/course flow/future plannings etc. I linked the Drive folder to the project as reference.
+   > I explicitly asked the model to review all the contexts and materials before starting each lesson. When I wanted to start the lesson, I would open a new chat in the same …
 
 4. I’m making an Ultima-inspired RPG where the villain sends hunters after you. Free browser alpha looking for playtesters.
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xsqpth/im_making_an_ultimainspired_rpg_where_the_villain/
@@ -287,19 +310,7 @@ Description:
    > C:\Users\...\actual-project-folder\document.md
    > Sometimes the agent creates or links a separate local/output copy …
 
-6. Agentic code reviews
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xs6zzu/agentic_code_reviews/
-   - posted 2026-11-09 15:14 PST
-
-   > if you review PRs written mostly by coding agents (Cursor, Claude Code, Copilot), how's it going?
-   > How many per week, and how big (files / lines)?
-   > What's harder than human-written PRs, or is it no different?
-   > How do you understand a change: diff only, run it, read tests, ask the agent, skim and approve?
-   > Has one caused a prod bug or stalled merge because nobody fully understood it?
-   > Anything you've tried to fix this? Did it help?
-   > I'm exploring a tool in this space, so "not a problem for us" is a …
-
-7. Using ChatGPT for coding verus Codex.
+6. Using ChatGPT for coding verus Codex.
    - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xshdsq/using_chatgpt_for_coding_verus_codex/
    - posted 2026-11-10 00:10 PST
 
@@ -307,84 +318,73 @@ Description:
    > Notion has the devleopment stories and documentation. Roadmap, architecure and story refinement are done in ChatGPT. Coding is done in codex. CI in Gihub with independent reviews by Copilot as part of CI.
    > I am trying to use Codex for development, as it can build locally but the quality of code is much worse that if i get ChatGPT to just change Github directly. Also Codex uses …
 
-8. Is anyone else of the opinion that chatgpt.com (no matter what model) - is way better than the ChatGPT desktop or Codex?
-   - Thread: https://www.reddit.com/r/ChatGPTCoding/comments/1xs5hs1/is_anyone_else_of_the_opinion_that_chatgptcom_no/
-   - posted 2026-11-09 14:13 PST
 
-   > Literally on everything.
+## Hacker News (13 stories)
 
-
-## Hacker News (14 stories)
-
-1. Claude Fable 5.2 and Mythos 5.2
-   - Link: https://www.anthropic.com/claude-fable-and-mythos-5-2
-   - Discussion: https://news.ycombinator.com/item?id=50429906
-   - 981 points, 6 comments, posted 2026-11-09 10:56 PST
-
-2. Claude Fable 5.2 and Mythos 5.2
-   - Link: https://www.anthropic.com/claude-fable-and-mythos-5-2
-   - Discussion: https://news.ycombinator.com/item?id=50429068
-   - 811 points, 946 comments, posted 2026-11-09 10:01 PST
-
-3. USPS now offers official ZIP Code boundary polygons
-   - Link: https://postalpro.usps.com/zcb
-   - Discussion: https://news.ycombinator.com/item?id=50431058
-   - 703 points, 367 comments, posted 2026-11-09 11:58 PST
-
-4. Google Gemini routes personal Drive files and emails to human annotators
-   - Link: https://github.com/thisisme6598/gemini_files/
-   - Discussion: https://news.ycombinator.com/item?id=50429426
-   - 690 points, 144 comments, posted 2026-11-09 10:24 PST
-
-5. AlphaProof Code
+1. AlphaProof Code
    - Link: https://deepmind.google/blog/introducing-alphaproof-code/
    - Discussion: https://news.ycombinator.com/item?id=50439193
-   - 424 points, 140 comments, posted 2026-11-10 04:11 PST
+   - 614 points, 182 comments, posted 2026-11-10 04:11 PST
 
-6. Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far
-   - Link: https://artificialanalysis.ai/models/claude-fable-5-2
-   - Discussion: https://news.ycombinator.com/item?id=50431144
-   - 361 points, 261 comments, posted 2026-11-09 12:04 PST
-
-7. Muse Ember: Our smallest, most efficient model
-   - Link: https://research.meta.ai/blog/muse-ember
-   - Discussion: https://news.ycombinator.com/item?id=50429024
-   - 321 points, 139 comments, posted 2026-11-09 09:58 PST
-
-8. CoreWeave bond yield tops 16% as AI credit stress rises
-   - Link: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html
-   - Discussion: https://news.ycombinator.com/item?id=50435660
-   - 188 points, 174 comments, posted 2026-11-09 19:20 PST
-
-9. Gemini 4 Carbon is now available
-   - Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
-   - Discussion: https://news.ycombinator.com/item?id=50442303
-   - 151 points, 65 comments, posted 2026-11-10 08:07 PST
-
-10. A year after the 100% AI mandate nobody understands our code
-   - Link: https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/
-   - Discussion: https://news.ycombinator.com/item?id=50433079
-   - 144 points, 183 comments, posted 2026-11-09 14:19 PST
-
-11. Fireworks AI security breach impacts Notion and their customers
-   - Link: https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor
-   - Discussion: https://news.ycombinator.com/item?id=50437106
-   - 140 points, 49 comments, posted 2026-11-09 23:19 PST
-
-12. AI usage generates a fragile codebase
+2. AI usage generates a fragile codebase
    - Link: https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/
    - Discussion: https://news.ycombinator.com/item?id=50438318
-   - 132 points, 163 comments, posted 2026-11-10 02:25 PST
+   - 502 points, 482 comments, posted 2026-11-10 02:25 PST
 
-13. Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100
-   - Link: https://github.com/Dodaios/ste80-humanizer
-   - Discussion: https://news.ycombinator.com/item?id=50429144
-   - 102 points, 38 comments, posted 2026-11-09 10:05 PST
+3. Tracking Anthropic-discovered vulnerabilities
+   - Link: https://www.vulncheck.com/blog/anthropic-glasswing-november-update
+   - Discussion: https://news.ycombinator.com/item?id=50447074
+   - 390 points, 180 comments, posted 2026-11-10 14:17 PST
 
-14. Meet the Sad Wives of AI
+4. Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives
+   - Link: https://github.com/GoogleChrome/modern-web-guidance
+   - Discussion: https://news.ycombinator.com/item?id=50443812
+   - 347 points, 103 comments, posted 2026-11-10 10:01 PST
+
+5. Gemini 4 Carbon is now available
+   - Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/
+   - Discussion: https://news.ycombinator.com/item?id=50442303
+   - 283 points, 155 comments, posted 2026-11-10 08:07 PST
+
+6. Claude Whiteboards, Claude Sheets, and Claude Data
+   - Link: https://claude.com/resources/articles/sheets-whiteboards-data
+   - Discussion: https://news.ycombinator.com/item?id=50443716
+   - 193 points, 145 comments, posted 2026-11-10 09:55 PST
+
+7. Apple has new Mac app coming to make running local AI models easy
+   - Link: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/
+   - Discussion: https://news.ycombinator.com/item?id=50446520
+   - 178 points, 141 comments, posted 2026-11-10 13:25 PST
+
+8. A great old-timey game-programming hack (2013)
+   - Link: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html
+   - Discussion: https://news.ycombinator.com/item?id=50448921
+   - 118 points, 17 comments, posted 2026-11-10 17:56 PST
+
+9. Life on Claude Nine
+   - Link: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html
+   - Discussion: https://news.ycombinator.com/item?id=50443587
+   - 99 points, 60 comments, posted 2026-11-10 09:44 PST
+
+10. Meet the Sad Wives of AI
    - Link: https://www.wired.com/story/meet-the-sad-wives-of-ai/
    - Discussion: https://news.ycombinator.com/item?id=50438429
-   - 70 points, 59 comments, posted 2026-11-10 02:40 PST
+   - 76 points, 69 comments, posted 2026-11-10 02:40 PST
+
+11. Anthropic to Seek $1.3T Valuation in IPO
+   - Link: https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669
+   - Discussion: https://news.ycombinator.com/item?id=50439616
+   - 59 points, 83 comments, posted 2026-11-10 04:49 PST
+
+12. AI is becoming an information gateway. Audiences still don’t want it making news
+   - Link: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/
+   - Discussion: https://news.ycombinator.com/item?id=50448174
+   - 51 points, 32 comments, posted 2026-11-10 16:15 PST
+
+13. AI Users have workdays up to 90 min longer than non-users
+   - Link: https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/
+   - Discussion: https://news.ycombinator.com/item?id=50439686
+   - 50 points, 20 comments, posted 2026-11-10 04:57 PST
 
 
 ## Channel ids resolved this run
