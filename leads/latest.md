@@ -1,10 +1,10 @@
 ---
 date: 2026-11-14
-generated_at: 2026-11-13T16:34:00Z
+generated_at: 2026-11-14T07:40:19Z
 status: complete
-videos: 4
+videos: 5
 reddit_posts: 23
-hn_stories: 14
+hn_stories: 15
 ---
 
 # Overnight sources for Saturday, November 14, 2026
@@ -20,161 +20,151 @@ None.
 - YouTube captions: not available this run (Sign in to confirm you’re not a bot); videos are listed with their descriptions instead.
 - Reddit comments: stopped after 9 of 11 threads (HTTP 429).
 
-## YouTube (4 videos)
+## YouTube (5 videos)
+
+### It’s so much worse than I thought…
+
+- Channel: Theo - t3.gg
+- URL: https://www.youtube.com/watch?v=5BrgFY5jIn4
+- Published: 2026-11-13 17:00 PST
+- Views: 64,000
 
 ### I think I figured it out
 
 - Channel: Theo - t3.gg
 - URL: https://www.youtube.com/watch?v=XtykeVoSmP8
-- Published: 2026-11-12 18:34 PST
-- Views: 113,416
-
-Description:
-
-> With Opus 5.5 and Fable 5.2 finally out, it's time to break down what you should be using each one for, and how they work together
-
-### Jensen Huang just pulled out of Nvidia...
-
-- Channel: Fireship
-- URL: https://www.youtube.com/watch?v=SOwUWPtXQ9I
-- Published: 2026-11-12 13:17 PST
-- Views: 1,784,835
-
-Description:
-
-> Manufact is the easiest way to build and deploy your MCP. Get $100 in free credits: Jensen Huang just resigned as Nvidia’s CEO four days after admitting to an affair with a suspected Chinese spy whose tiny Singapore company bought $4.8 billion of Nvidia GPUs. Let's dive in.
-
-### Finally AI is making new Jobs
-
-- Channel: The PrimeTime
-- URL: https://www.youtube.com/watch?v=kUBTjJehO34
-- Published: 2026-11-12 09:36 PST
-- Views: 223,820
-
-Description:
-
-> Sentry: Catch, trace, and fix bugs across your entire stack. prime for $100 in free sentry credits → Want to order coffee over SSH? ssh terminal.shop Become Backend Dev: (plus i make courses for them) This is also the best way to support me is to support yourself becoming a better backend engineer. Great News? Want me to research and create video????: Kinesis Advantage 360:
+- Published: 2026-11-12 16:00 PST
+- Views: 170,000
 
 ### The Home Repo: The effortless multi-repo agent setup
 
 - Channel: Matt Pocock
 - URL: https://www.youtube.com/watch?v=hWe-j78vNpc
-- Published: 2026-11-12 03:55 PST
-- Views: 168,673
+- Published: 2026-11-12 16:00 PST
+- Views: 198,000
 
-Description:
+### WTF are Swarm Chasers
 
-> Discover the Home Repo pattern: a simple technique to manage multiple repositories with shared agent skills, steering files, and custom tooling. Learn how to organize your team's AI-powered development workflow. 0:00 A too-simple technique goes viral 0:27 The multi-repo agent problem 2:20 The home repo solution 2:53 Tour of my home repo 4:42 Scaling and why not monorepos 5:43 Personal wiki and custom tooling Read the full Home Repo Pattern article: Take my self-paced AI coding crash course …
+- Channel: The PrimeTime
+- URL: https://www.youtube.com/watch?v=kUBTjJehO34
+- Published: 2026-11-12 16:00 PST
+- Views: 272,000
+
+### Nvidia just got caught with its pants down...
+
+- Channel: Fireship
+- URL: https://www.youtube.com/watch?v=SOwUWPtXQ9I
+- Published: 2026-11-12 16:00 PST
+- Views: 2,100,000
 
 
 ## Reddit (23 posts)
 
 ### r/ClaudeAI
 
-1. My game got removed from gamedev subs for using AI, so here’s exactly how I made it with Claude
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xul18m/my_game_got_removed_from_gamedev_subs_for_using/
-   - posted 2026-11-12 10:46 PST
+1. Fable 5.2 painting in MS Paint
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xvghd1/fable_52_painting_in_ms_paint/
+   - posted 2026-11-13 11:00 PST
 
-   > I’ve been making games for 19 years. Over the last few years it had turned into a job, and I stopped enjoying it. A few weeks ago I set myself a challenge, take one small game through the entire pipeline on my own with AI. That meant development, art, marketing, the Steam page, and getting it onto the platform.
-   > It took about 5 weeks. For the first time in years I was actually having fun making a game again.
-   > In the game, you drive a machine into a dense field, clear it, and use what you earned …
+   > I saw a post on Reddit where the new GPT Astra painted in MS Paint, so I let Fable 5.2 try the same thing. It did the whole painting with the mouse in about 2.5 hours.
+   > Edit: I saw some repeating questions in the comments, so to clarify:
+   > It controls MS Paint through computer use in the Claude desktop app.
+   > Rough cost at API prices: about $45
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 200 comments. The overwhelming consensus is that the gamedev subs that booted OP are clueless and gatekeeping. The community is firmly on OP's side, arguing that AI is a tool and the final product is what matters. If the game isn't "slop," who …
-   - buttfarts7: I'm pretty sure even studio made AAA games are getting big uplift from AI coding.
-   - SirKnighty: I used to work in an AAA studio and yeah some of them are heavily investing into AI.
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 200 comments. The consensus is that this is a seriously impressive technical demo, but the $45 price tag is absolutely wild for an MS Paint picture. A top comment suggested OP should trick an art sub by passing this off as human-made. This …
+   - RealMercuryRain: Post it on amateur art subs. Tell them you hate AI and it's your painting. Enjoy all the cheering and "ai would never done anything like that". Wait. Then tell them the brutal truth.
+   - TrackLabs: Then tell them the brutal truth. cool, and then you show that AI Bros just lie all the time about something not being AI made, lying, deceiving, good way to gain respect by anyone.
 
 2. hopital
    - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xv3qfi/hopital/
    - posted 2026-11-13 01:46 PST
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 30 comments. The consensus is that this is a top-tier, S-rank meme and everyone is losing it. The thread is basically just people quoting their favorite parts and adding to the chaos. The line "Considering suggesting Pringles can" has sent the …
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. The consensus is that this is one of the funniest posts this sub has seen. Everyone is absolutely losing it over Claude's internal monologue ("Considering suggesting Pringles can," "Considering how to answer a question about …
    - ChimeInTheCode: “Considering suggesting Pringles can” took me out 😂
    - LongjumpingRadish452: Considering how to answer a question about pen...
 
-3. I disclosed every AI-made part of my solo game on Steam. The disclaimer is one of the main things people comment on.
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xus0wz/i_disclosed_every_aimade_part_of_my_solo_game_on/
-   - posted 2026-11-12 15:22 PST
+3. PSA: Using Fable as an advisor doesn’t touch your Fable weekly limit
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xvnq0t/psa_using_fable_as_an_advisor_doesnt_touch_your/
+   - posted 2026-11-13 15:54 PST
 
-   > I'm a software dev of 20 years and I built Mend, a fly-fishing game on real Alberta and BC rivers , on my own with Claude. It comes out on Steam next week and I am getting mixed reviews. I filled in Steam's AI disclosure honestly as seen below
-   > Mend's narrator and the characters' voices are made with AI text-to-speech. The narrator is a synthetic voice and does not imitate any real person, and the characters speak an invented gibberish language. Much of the game's text (the dialogue, the in-game …
-
-   Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 400 comments. The overwhelming consensus in this thread is that the backlash you're getting is an irrational, virtue-signaling witch hunt from a loud minority who were never going to buy your game anyway. The community is firmly on your side …
-   - MarcoPierreGray: The people who are obsessed with being anti-ai are in denial considering most major devs are using it and they will eat that shit up because it’s not overtly told to them. I feel bad for you and I’m genuinely so tired of this shit
-   - civerooni: Yea I knew it would come, but surprised how many man hours of work can be disregarded because a menu song was written with AI or gibberish character voices.
-
-4. Introducing Claude Meetings
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xunrsl/introducing_claude_meetings/
-   - posted 2026-11-12 12:28 PST
-   - Links to: https://x.com/claudeai/status/2120973994191094179?a=OlHvWxLjsUkDDn5cS4Y&s=20
+   > I use Opus 5.5 with Fable 5.2 as the advisor. It should work automatically but I tend to actually tell Claude to use the advisor when I want something researched. Works a treat and does not draw anything from my weekly Fable quota.
+   > Happy weekend!
+   > Edit:
+   > Since too many feel the urge to just post what they think will happen, instead of actually trying what happens, I will give you one more little nudge to stop procrastination.
+   > Setup /advisor in Claude, 10 seconds.
+   > Write the prompt like this …
 
    Top comments:
-   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 100 comments. The timing of this announcement during a massive Microsoft outage is chef's kiss , and you guys are loving the delicious irony. The consensus is that while Claude Meetings looks awesome, launching on Google Meet first is a weird …
-   - wtfihavetonamemyself: Man they really want that IPO. Releasing betas of all kinds of things.
-   - FinibusBonorum: Move fast and break things.
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. So, the overwhelming consensus here is that OP is likely wrong. The community's main theory is that you're not seeing Fable usage simply because Opus isn't actually calling the advisor. The /advisor command doesn't force a …
+   - Melodic_Reality_646: And now it will.
+   - NoDilutionYT: You know his homework came in on time.
 
-5. Dumbest way to burn credits
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xv0vte/dumbest_way_to_burn_credits/
-   - posted 2026-11-12 22:47 PST
+4. Is it just me or is Claude really bad at researching online?
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xvnjsb/is_it_just_me_or_is_claude_really_bad_at/
+   - posted 2026-11-13 15:46 PST
 
-   > Thought I was going to test Claude's limits to the fullest...😔 Now I am questioning my own existence
+   > I usually use Claude Code (and it's great at that), but I recently started using it for researching purposes and every time I ask about some ongoing event, it reports that it cannot access the relevant sites. Meanwhile, ChatGPT reports back right away with all the information from various sources. It feels like Claude is super restricted in this regard and I don't know a way around it.
 
-6. Claude refuses to touch copywritten works
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xuho9b/claude_refuses_to_touch_copywritten_works/
-   - posted 2026-11-12 08:43 PST
+   Top comments:
+   - ClaudeAI-mod-bot: TL;DR of the discussion generated automatically after 50 comments. You're not just imagining it, OP. The overwhelming consensus in this thread is that Claude's native web search is hot garbage, especially for anything current. Most users agree that Gemini is the go-to for research, with ChatGPT …
+   - sock_pup: I hate that it can't research on reddit
+   - Appropriate_Lake1569: I'm glad it doesn't research with reddit or use reddit for training, maybe it's why it's nowhere near as braindead as it's competitors
 
-   > Really Anthropic? After feeding every human work in existence to your models, rights holders be damned, you block fair use of copywritten works? It's not like I'm asking it to search out the quote and pin it down, I've provided the text to use directly.
-   > When Opus 4.8 launched this wasn't an issue, but now when I select it manually it displays the same behavior as 5.5 does here in its usual verbose style.
-   > Disclaimer: I came across this limitation in actual work conversation, where I was quoting …
+5. Claude Code limits in a desktop pet
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xveugv/claude_code_limits_in_a_desktop_pet/
+   - posted 2026-11-13 09:59 PST
 
-7. Anthropic are discouraging using Fable as a coordinator for Projects
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xuuabz/anthropic_are_discouraging_using_fable_as_a/
-   - posted 2026-11-12 17:04 PST
+   > I built Clauddy, a small pixel pet that sits in a corner of your screen and keeps your Claude Code session and weekly limits in view, along with when each one resets. The Fable weekly limit shows on its own too. It types at its desk while Claude is working, catches fire past 90%, and naps when you step away. If you use Codex or Cursor as well, they show up next to Claude, each with its own limits.
+   > How Claude Code helped
+   > All of it was built with Claude Code, mostly in long sessions where I …
 
-   > Seems to go against the "use Fable for orchestration" advice that I've been seeing a lot
+6. Claude used boogie nights nude scene for testing
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xv8bld/claude_used_boogie_nights_nude_scene_for_testing/
+   - posted 2026-11-13 05:47 PST
 
-8. I hate how Claude formulates responses, they are very hard to read
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xusj0t/i_hate_how_claude_formulates_responses_they_are/
-   - posted 2026-11-12 15:45 PST
+   > Last night I had claude testing subtitle styling for my home media app and i gave it control of my tv. I have around 180 movies and on each occasion of the test it chose boogie nights, jumped exactly to the 25 minute mark, and played out the roller girl nude scene. I asked why it choose that scene and it gave me a gaslit response😂
+   > Has anyone else experienced a horny AI?
 
-   > Comparing to chatgpt the way Claude talks is just giving me headache, using the default output style.
-   > For a long time I didn't understand why I find claude so frustrating sometimes, until I realized that I can never properly understand what it tries to say. I don't think there was a single time I used claude code for a complex problem and didn't have to ask for about 5 clarifications for it response.
-   > This literally never happens to me with chatgpt/codex. The sentences are structured in away a …
+7. Claude chat vs Claude Code: am I managing my projects wrong, or is Code just better at everything?
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xv50sl/claude_chat_vs_claude_code_am_i_managing_my/
+   - posted 2026-11-13 03:04 PST
 
-9. I built "Lump," a quirky desk creature who shows me what Claude is doing, so I don't miss anything
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xumt47/i_built_lump_a_quirky_desk_creature_who_shows_me/
-   - posted 2026-11-12 11:51 PST
+   > I've been using both the regular Claude chat and Claude Code for a while, and I keep running into the same pattern. In the chat, I end up bouncing between conversations: a thread gets too long or drifts, I open a new one, re-explain the context, paste back what we'd already settled, lose track of which version is the current one… I spend a real chunk of time managing conversations instead of actually working.
+   > In Claude Code, most of that friction disappears. It works directly on my files, the …
 
-   > This is Lump. He lives in a tiny glass cube on top of my monitor and keeps an eye on my Claude sessions, so I don't have to.
-   > I kept leaving Claude Code to work and then either staring at it waiting, or wandering off and coming back to find it had been sat on a permission prompt for 20 minutes. Now I just glance at Lump!
-   > What he does
-   > Works when Claude works. He opens his little laptop and types while any session is busy.
-   > Raises the alarm when Claude needs you: a permission prompt, a question, a …
+8. Fable 5.2 / Opus 5.5: asked Claude to make my screen look as deep as a fish tank. It wrote this in one HTML file.
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xvo1su/fable_52_opus_55_asked_claude_to_make_my_screen/
+   - posted 2026-11-13 16:08 PST
 
-10. Anthropic’s IPO is reportedly 6x oversubscribed... the biggest AI market test yet
-   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xutknf/anthropics_ipo_is_reportedly_6x_oversubscribed/
-   - posted 2026-11-12 16:31 PST
+   > This is a 65 second film made from one HTML file. Claude wrote every line of it.
+   > What it is
+   > - One HTML file, 186 KB, about 3,000 lines. Raw WebGL. No libraries, no image files, no 3D engine.
+   > - Everything you see is built from maths at load time: the fish, the reef, the whale shark, the jellyfish, the glass.
+   > - No glasses needed. The depth is a trick of projection. The picture is drawn as if your screen were a window, and the picture frame gives your eye a fixed edge. When a fish crosses that …
 
-   > Just saw Anthropic’s IPO has 6× more IPO demand than available shares at up to 1.4T valuation. (Bloomberg)
-   > I believe that is a big signal as the company is aiming to raise up to $64.4B at a valuation of roughly $1.4T, and apparently there are already far more buyers than shares even though it seems existing backers may get priority... many new investors could receive smaller allocations than they asked for.
-   > Claude has become genuinely important to a lot of people and businesses this year, so …
+9. Discussion Hub for new Claude incident: Elevated errors on claude.ai, Claude Code, and platform.claude.com on Nov 13, 2026
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xv3xyv/discussion_hub_for_new_claude_incident_elevated/
+   - posted 2026-11-13 02:00 PST
+
+   > Resolved - The issue affecting claude.ai and Claude Cowork has been resolved. Nov 13, 11:58 UTC
+   > Monitoring - A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery. Nov 13, 11:05 UTC
+   > Investigating - We are investigating an issue with users authenticating to Claude.ai and Claude Code. We will provide an update as soon as possible. Nov 13, 09:58 UTC
+   > Post flair and post body will be updated as the incident report is updated by Anthropic.
+   > This discussion …
+
+10. Please, allow us to connect with a password
+   - Thread: https://www.reddit.com/r/ClaudeAI/comments/1xvcmnc/please_allow_us_to_connect_with_a_password/
+   - posted 2026-11-13 08:37 PST
+
+   > The link sent by mail is stupid as fuck, I can't connect to my account and work because I'm waiting on an email with a 10mn expiration timer on the link, except the mail never comes in.
+   > Allow me to connect to my account with a password and 2FA device, like the rest of the civilised world.
+   > Thanks for coming to my TED talk!
 
 ### r/ClaudeCode
 
-1. I wonder what the cartels are building with Claude code rn
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xuroqr/i_wonder_what_the_cartels_are_building_with/
-   - posted 2026-11-12 15:07 PST
-
-   > saw it on twitter. what’s your opinions? 🤣
-
-   Top comments:
-   - Buntatricky46: Probably CRM / inventory management / supply chain automation
-   - MyStackIsPancakes: I love the idea that I could say "Fuck this corpo shit! I'm out!" and go work for a drug cartel... only to still be in the same hellish meetings about CRM integration related data transformations.
-   - apocolipse: And cartel themed/oriented GTA mods.
-
-2. 10 years of Postgres expertise and the agent knows it better now
+1. 10 years of Postgres expertise and the agent knows it better now
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv6v7h/10_years_of_postgres_expertise_and_the_agent/
    - posted 2026-11-13 04:42 PST
 
@@ -184,19 +174,21 @@ Description:
 
    Top comments:
    - Ok-Level-8907: https://preview.redd.it/1y8sfrbwmd1i1.png?width=584&format=png&auto=webp&s=b18f21485201ad2cbec827ed70ecc6547774ca2f
-   - PixelDins: It’s easy, your “thing” now is to become known to your managers as someone who is reliable and can get shit done. You know the stack AND the history of the stack. You know business decisions about WHY shit was previously built in a way, why the apps are how they are. Basicly, become the product …
-   - Single-Pen-726: He doesnt know the stack. Hes a sql guy. Hes a dying breed.
+   - mvhls: I don’t understand this meme. It’s used in every context
+   - roflcop7er: It's basically, "welcome to the club, asshole"
 
-3. Fable 5.2 uses so much usage it’s basically pointless to use
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xusayn/fable_52_uses_so_much_usage_its_basically/
-   - posted 2026-11-12 15:35 PST
+2. you are not running out faster , the weekly usage limit is shirking ~[ 20% drop ]
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvb26p/you_are_not_running_out_faster_the_weekly_usage/
+   - posted 2026-11-13 07:38 PST
+
+   > So I noticed while doing the same kind of work, doing a PR review for a certain project, that before, when I start working, I finish one PR review and it will take 5%, 10%, maybe, of my usage limit. But lately I'm noticing with the first PR, I am at almost 20% of my 5-hour usage limit. So when I checked my usage board, the one I have made that calculates the exact API equivalent of the tokens based on the different type of models and the different type of use case, like which cache token and so …
 
    Top comments:
-   - ItstheSECopenup: OP has a $20 plan
-   - Any-Quote-6479: We just shaming people for not paying 200 per month to one of the most overpaid companies to ever exist? Edit: y'all are overly upset and IDC lol please stop commenting at me
-   - geek180: Not shaming for having a lesser plan. Shaming for assuming you can use the world’s best model in a meaningful way on the cheapest subscription.
+   - Machine2024: look at me starting the chart at 400 :D for dramatic effect . not only apple and politicians and big companies can play that game . we can play it too .
+   - Noob_Kid: it is at least 40-50% drop for me observed on both max and ultra plan for the last 5 months 2-3 weeks ago the limit started to shrink and hasnt change since then the change in limit is very consistent and i cant understand why people keep denying it or not even noticing in a large scale do not talk …
+   - BusinessWatercrees58: Fucking thank you! I knew I wasn't using claude code any differently than I have before. Now I'm at 85% of my weekly limit when I normally never broke past 60%. Before I had to schedule weekend tasks to use of the last of my tokens on small mundane tasks like refactorings and doc updates but now I …
 
-4. CLAUDE IS DOWN, I M NOTHING ANYMORE
+3. CLAUDE IS DOWN, I M NOTHING ANYMORE
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv3w67/claude_is_down_i_m_nothing_anymore/
    - posted 2026-11-13 01:56 PST
 
@@ -207,11 +199,24 @@ Description:
    - minibonk: atleast you stayed calm
    - PenPuzzled8055: Glad you didn’t overreact 👍
 
-5. It's about time for Claude to have passwords and 2fa rather than email verification.
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv04uo/its_about_time_for_claude_to_have_passwords_and/
-   - posted 2026-11-12 22:03 PST
+4. Astra is dogshit compared to Opus
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvjr1b/astra_is_dogshit_compared_to_opus/
+   - posted 2026-11-13 13:06 PST
 
-   > This Microsoft outage is a nightmare. No access to my email? I can't login to my Claude account, can't use Claude Code. This wouldn't be happening if I could login with a password and 2fa token. We need the option at least.
+   > I held off too long from switching away from Codex due to the perceived hassle. But I switched today and Opus is clearing up issues like its walking through a wheat field with a scythe.
+   > Only thing I will keep codex around for is Computer use and image generation.
+   > It is really annoying though having to switch back forth each time they leapfrog each other
+
+   Top comments:
+   - fredastere: Opus and sol have a better operational lens and view on your problem Astra and fable have a better conceptual lens and view on the problem
+   - adelie42: Astra-Fable cooperative avisarial review of a plan developed by Opus is unbeatable.
+   - YaBoiSunblock: Yeah Codex is nerfed right now since (my guess) they shift all their compute to a new model before it drops. So it’s almost like they take all your features away just to be able to say “look how much better this new model is than the last!” Has happened time and time again between Claude and GPT …
+
+5. 10 minutes of work, 60 minutes of testing
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvdm7w/10_minutes_of_work_60_minutes_of_testing/
+   - posted 2026-11-13 09:13 PST
+
+   > Do you also find that Claude Code takes testing to an extreme—where the individual project steps keep getting smaller, and upon completing each tiny step, he runs the entire test suite, which already consists of thousands of tests and is growing faster than the actual software itself?
 
 6. We cooked?
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv3t2j/we_cooked/
@@ -219,33 +224,33 @@ Description:
 
    > https://preview.redd.it/yr3p8ppkqc1i1.png?width=726&format=png&auto=webp&s=c03abdf604758e4a70cf825655b66c73a4be10b0
 
-7. you are not running out faster , the weekly usage limit is shirking ~[ 20% drop ]
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvb26p/you_are_not_running_out_faster_the_weekly_usage/
-   - posted 2026-11-13 07:38 PST
-
-   > So I noticed while doing the same kind of work, doing a PR review for a certain project, that before, when I start working, I finish one PR review and it will take 5%, 10%, maybe, of my usage limit. But lately I'm noticing with the first PR, I am at almost 20% of my 5-hour usage limit. So when I checked my usage board, the one I have made that calculates the exact API equivalent of the tokens based on the different type of models and the different type of use case, like which cache token and so …
-
-8. Claude is down ?
+7. Claude is down ?
    - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv3t8n/claude_is_down/
    - posted 2026-11-13 01:51 PST
 
    > Ok. Time for a shower.
    > Update : IT'S BACK !!!!!!
 
-9. Opus 5.5 is still the better daily driver for coding. Why does everyone say it's nerfed?
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xul65u/opus_55_is_still_the_better_daily_driver_for/
-   - posted 2026-11-12 10:51 PST
+8. Claude custom themes
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvo2bt/claude_custom_themes/
+   - posted 2026-11-13 16:08 PST
 
-   > Don't get me wrong, 5.2 isn't bad, I switched to it the day it launched and it is good at certain things: creative ideas, design specs, that kind of work anything creative that you can brainstorm on things like the Ui and of course coding.
-   > But for my coding agents and orchestration? I barely see a difference, and Fable5.2 sweeps through tokens like mad dog,, man!, the weekly limit that barely moved on opus 5.5 on my Max just jumped like a rocket with just 2 days of non complex tasks on 5.2
-   > My …
+   > You can now make custom themes on Claude Code on desktop.
 
-10. Having agents reset context around 225K tokens dropped a g coat by 50-75% for me
-   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xuwp92/having_agents_reset_context_around_225k_tokens/
-   - posted 2026-11-12 19:01 PST
-   - Links to: https://coralhub.dev/blog/context-reset-turn-cost.html
+9. I gave Claude Code a phone.
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xvla12/i_gave_claude_code_a_phone/
+   - posted 2026-11-13 14:07 PST
 
-   > I've been running agents 24/7 and just letting the context fill up. Claude has a setting to compact at a specific time, but I just built it into my harness so that it can happen at the end of a tasks completion instead of randomly. Costs dropped significantly.
+   > Almost nothing on my phone has an API. Claude Code could tell me what to tap, and never tap it. So I built phonedriver, which gives it the phone: it reads the screen, taps, types and swipes in any app, on Android or iPhone.
+   > The video is real recorded runs, shown fast and cut to music. The orange dot marks each place Claude tapped. Nobody touched the phone.
+   > Two runs from it:
+   > The bug hunt. I hid two bugs in a signup form: the welcome message drops the last character of your email, and after one …
+
+10. Found the guy who broke it
+   - Thread: https://www.reddit.com/r/ClaudeCode/comments/1xv460j/found_the_guy_who_broke_it/
+   - posted 2026-11-13 02:13 PST
+
+   > https://www.reddit.com/r/ClaudeCode/s/8Goam5nA4t
 
 ### r/ChatGPTCoding
 
@@ -270,77 +275,82 @@ Description:
    > If AI changed how coding work was done at your job and you ended up leaving, what changed for you?
 
 
-## Hacker News (14 stories)
+## Hacker News (15 stories)
 
-1. Gemini 4 Hydrogen
-   - Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
-   - Discussion: https://news.ycombinator.com/item?id=50471431
-   - 553 points, 343 comments, posted 2026-11-12 10:01 PST
-
-2. Gemini 4 Hydrogen and Orchestrator
-   - Link: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/
-   - Discussion: https://news.ycombinator.com/item?id=50472260
-   - 469 points, 149 comments, posted 2026-11-12 10:52 PST
-
-3. Elevated errors on claude.ai, Claude Code, and platform.claude.com
+1. Elevated errors on claude.ai, Claude Code, and platform.claude.com
    - Link: https://status.claude.com/incidents/nn11wk485zfn
    - Discussion: https://news.ycombinator.com/item?id=50481187
-   - 416 points, 340 comments, posted 2026-11-13 02:18 PST
+   - 488 points, 384 comments, posted 2026-11-13 02:18 PST
 
-4. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
-   - Link: https://unemploymentlabs.com/checkpoint-forensics
-   - Discussion: https://news.ycombinator.com/item?id=50474883
-   - 334 points, 136 comments, posted 2026-11-12 13:56 PST
+2. Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs
+   - Link: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus
+   - Discussion: https://news.ycombinator.com/item?id=50493251
+   - 410 points, 215 comments, posted 2026-11-13 18:52 PST
 
-5. Edge0-145B: Frontier AI Capabilities on Your Own Computer
-   - Link: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
-   - Discussion: https://news.ycombinator.com/item?id=50475713
-   - 312 points, 91 comments, posted 2026-11-12 15:06 PST
+3. AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems
+   - Link: https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths
+   - Discussion: https://news.ycombinator.com/item?id=50486748
+   - 379 points, 97 comments, posted 2026-11-13 09:30 PST
 
-6. Foundation Models framework
-   - Link: https://developer.apple.com/foundation-models-framework/
-   - Discussion: https://news.ycombinator.com/item?id=50474361
-   - 248 points, 34 comments, posted 2026-11-12 13:13 PST
-
-7. Brave Search API now accepts agentic payments via the x402 protocol
-   - Link: https://brave.com/blog/search-api-agentic-payments/
-   - Discussion: https://news.ycombinator.com/item?id=50477649
-   - 213 points, 116 comments, posted 2026-11-12 19:08 PST
-
-8. AI is turning Apple's app review process into a nightmare for synth developers
-   - Link: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html
-   - Discussion: https://news.ycombinator.com/item?id=50474311
-   - 190 points, 218 comments, posted 2026-11-12 13:09 PST
-
-9. Claude Is Down
-   - Link: https://status.claude.com/history
-   - Discussion: https://news.ycombinator.com/item?id=50481220
-   - 183 points, 156 comments, posted 2026-11-13 02:20 PST
-
-10. AI Is Destroying the Trust Between Writers and Readers
+4. AI is destroying the trust between writers and readers
    - Link: https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/
    - Discussion: https://news.ycombinator.com/item?id=50481870
-   - 153 points, 56 comments, posted 2026-11-13 03:13 PST
+   - 337 points, 204 comments, posted 2026-11-13 03:13 PST
 
-11. Show HN: AgentRun – open-source, Self-improving Managed Agents
-   - Link: https://github.com/Parcha-ai/agentrun/blob/main/README.md
-   - Discussion: https://news.ycombinator.com/item?id=50471650
-   - 127 points, 32 comments, posted 2026-11-12 10:15 PST
+5. Jonathan Blow – If AI solved coding, why is my software still the same? [video]
+   - Link: https://www.youtube.com/watch?v=IRK8h67ol7Q
+   - Discussion: https://news.ycombinator.com/item?id=50484658
+   - 253 points, 261 comments, posted 2026-11-13 07:08 PST
 
-12. Why Zig over C for Systems Programming
+6. After 600 experiments, here's what I discovered about JEPA world models
+   - Link: https://haddyalchaer.com/jepa
+   - Discussion: https://news.ycombinator.com/item?id=50487185
+   - 247 points, 40 comments, posted 2026-11-13 09:55 PST
+
+7. Why Zig over C for Systems Programming
    - Link: https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/
    - Discussion: https://news.ycombinator.com/item?id=50483611
-   - 107 points, 58 comments, posted 2026-11-13 06:01 PST
+   - 216 points, 209 comments, posted 2026-11-13 06:01 PST
 
-13. Why You Should Expect an AI Crash
-   - Link: https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash
-   - Discussion: https://news.ycombinator.com/item?id=50475735
-   - 98 points, 83 comments, posted 2026-11-12 15:08 PST
+8. Claude Is Down
+   - Link: https://status.claude.com/history
+   - Discussion: https://news.ycombinator.com/item?id=50481220
+   - 198 points, 175 comments, posted 2026-11-13 02:20 PST
 
-14. Chicago schools to Google – we'd rather lose Search than be forced to accept AI
-   - Link: https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html
-   - Discussion: https://news.ycombinator.com/item?id=50476586
-   - 86 points, 27 comments, posted 2026-11-12 16:38 PST
+9. No AI Slop: A Manifesto
+   - Link: https://www.slopmanifesto.com/
+   - Discussion: https://news.ycombinator.com/item?id=50488769
+   - 192 points, 114 comments, posted 2026-11-13 11:51 PST
+
+10. Why is Google cutting off Search from AI-free schools? Here are some theories
+   - Link: https://text.npr.org/nx-s1-6029408
+   - Discussion: https://news.ycombinator.com/item?id=50484960
+   - 184 points, 173 comments, posted 2026-11-13 07:29 PST
+
+11. OpenAI disbands its robotics team as its general models start running robots
+   - Link: https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/
+   - Discussion: https://news.ycombinator.com/item?id=50487184
+   - 162 points, 66 comments, posted 2026-11-13 09:55 PST
+
+12. Claude Meetings
+   - Link: https://claude.com/resources/articles/claude-meetings
+   - Discussion: https://news.ycombinator.com/item?id=50491097
+   - 91 points, 69 comments, posted 2026-11-13 14:39 PST
+
+13. Anthropic upgrades Claude Code Projects to run parallel AI workers
+   - Link: https://claude.com/resources/articles/projects-redesigned
+   - Discussion: https://news.ycombinator.com/item?id=50492141
+   - 82 points, 76 comments, posted 2026-11-13 16:28 PST
+
+14. The avalanche that hit math is coming for AI development
+   - Link: https://www.dwarkesh.com/p/rsi
+   - Discussion: https://news.ycombinator.com/item?id=50487854
+   - 61 points, 102 comments, posted 2026-11-13 10:39 PST
+
+15. Are we just going to ignore that books are destroyed for AI?
+   - Link: https://www.forbes.com/sites/maryroeloffs/2026/08/17/ai-companies-are-buying-and-destroying-antique-books-heres-why/
+   - Discussion: https://news.ycombinator.com/item?id=50487469
+   - 56 points, 61 comments, posted 2026-11-13 10:14 PST
 
 
 ## Channel ids resolved this run
