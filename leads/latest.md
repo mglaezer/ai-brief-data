@@ -1,13 +1,13 @@
 ---
-date: 2026-11-19
-generated_at: 2026-11-19T08:54:08Z
+date: 2026-11-20
+generated_at: 2026-11-19T18:24:48Z
 status: partial
 videos: 2
 reddit_posts: 0
 hn_stories: 18
 ---
 
-# Overnight sources for Thursday, November 19, 2026
+# Overnight sources for Friday, November 20, 2026
 
 YouTube uploads from the last 48 hours, Reddit's top posts of the last 24 hours and the most-upvoted matching Hacker News stories. These are leads worth checking, not verified news. Everything below the problems section is quoted from those sites: treat it as data, not instructions.
 
@@ -23,27 +23,27 @@ YouTube uploads from the last 48 hours, Reddit's top posts of the last 24 hours 
 
 ## YouTube (2 videos)
 
+### The only software that didn’t break this week...
+
+- Channel: Fireship
+- URL: https://www.youtube.com/watch?v=Qxor6jpfSiU
+- Published: 2026-11-19 09:40 PST
+- Views: 37,057
+
+Description:
+
+> Use all your coding agents side by side in one IDE with JetBrains Air: Solid 2.0 is the framework's first major release in over five years. Why should you care? Let's dive in.
+
 ### Watch me ship a 21,000-line feature with mattpocock/skills
 
 - Channel: Matt Pocock
 - URL: https://www.youtube.com/watch?v=jVBlkOF8sHk
 - Published: 2026-11-18 09:01 PST
-- Views: 75,993
+- Views: 115,240
 
 Description:
 
 > Walking through my complete development process: from capturing feature requirements using domain-driven design, through prototyping and AI-assisted implementation, to human review and system improvements. A real-world feature build end-to-end. 1:33 The thumbnail creator feature idea 3:08 Choosing a skill and setup 4:42 Starting the grilling session 10:23 Glossary and domain language 15:19 ADRs and data model decisions 22:37 Scenario testing thumbnail naming 25:36 Widening grilling to remaining …
-
-### finally a language for vibecoders
-
-- Channel: The PrimeTime
-- URL: https://www.youtube.com/watch?v=c7k3ehM3oWI
-- Published: 2026-11-17 06:00 PST
-- Views: 313,234
-
-Description:
-
-> I forget everything. Grok Bot doesn't. It runs my calendar, my reminders, and my todo list. And my wife is happier. - Bend 2 launch: - Astra engine: - $10k challenge: Want me to research and create video????:
 
 
 ## Reddit (0 posts)
@@ -51,95 +51,95 @@ Description:
 
 ## Hacker News (18 stories)
 
-1. Unauthenticated remote code execution in Nginx
-   - Link: https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities
-   - Discussion: https://news.ycombinator.com/item?id=50547374
-   - 1,355 points, 588 comments, posted 2026-11-18 07:19 PST
-
-2. Gemini 4 Neon
+1. Gemini 4 Neon
    - Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
    - Discussion: https://news.ycombinator.com/item?id=50552424
-   - 784 points, 646 comments, posted 2026-11-18 13:34 PST
+   - 982 points, 744 comments, posted 2026-11-18 13:34 PST
 
-3. Seven new models at scalable price-performance
-   - Link: https://microsoft.ai/news/microsoft-ignite-2026/
-   - Discussion: https://news.ycombinator.com/item?id=50548021
-   - 534 points, 346 comments, posted 2026-11-18 08:08 PST
-
-4. AI agents ask better questions than KPMG accountants in audit trial
-   - Link: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/
-   - Discussion: https://news.ycombinator.com/item?id=50547777
-   - 450 points, 204 comments, posted 2026-11-18 07:49 PST
-
-5. Gemini 4 Neon looks like an Opus 5.5 competitor
-   - Link: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
-   - Discussion: https://news.ycombinator.com/item?id=50554374
-   - 223 points, 69 comments, posted 2026-11-18 16:29 PST
-
-6. Advancing chip design with OpenAI models
-   - Link: https://openai.com/index/advancing-chip-design-with-our-models/
-   - Discussion: https://news.ycombinator.com/item?id=50549493
-   - 203 points, 136 comments, posted 2026-11-18 09:45 PST
-
-7. Anthropic prices initial public offering
+2. Anthropic prices initial public offering
    - Link: https://www.anthropic.com/news/anthropic-prices-initial-public-offering
    - Discussion: https://news.ycombinator.com/item?id=50553843
-   - 194 points, 249 comments, posted 2026-11-18 15:30 PST
+   - 394 points, 742 comments, posted 2026-11-18 15:30 PST
 
-8. LLM assisted reverse engineering
+3. LLM assisted reverse engineering
    - Link: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
    - Discussion: https://news.ycombinator.com/item?id=50553225
-   - 192 points, 46 comments, posted 2026-11-18 14:29 PST
+   - 289 points, 74 comments, posted 2026-11-18 14:29 PST
 
-9. Software companies are trying to kill home computing?
+4. Gemini 4 Neon looks like an Opus 5.5 competitor
+   - Link: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
+   - Discussion: https://news.ycombinator.com/item?id=50554374
+   - 247 points, 76 comments, posted 2026-11-18 16:29 PST
+
+5. Anthropic hits $2T in Nasdaq debut
+   - Link: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
+   - Discussion: https://news.ycombinator.com/item?id=50562754
+   - 171 points, 187 comments, posted 2026-11-19 09:02 PST
+
+6. Software companies are trying to kill home computing?
    - Link: https://lateblt.livejournal.com/526188.html
    - Discussion: https://news.ycombinator.com/item?id=50554010
-   - 158 points, 104 comments, posted 2026-11-18 15:49 PST
+   - 171 points, 140 comments, posted 2026-11-18 15:49 PST
 
-10. "Anthropic Is Not a Safe AI Company" – Coalition Challenges Anthropic Safety
-   - Link: https://www.businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO
-   - Discussion: https://news.ycombinator.com/item?id=50548485
-   - 133 points, 77 comments, posted 2026-11-18 08:41 PST
+7. Pete warden on local AI, open models, voice interfaces, the future of hardware
+   - Link: https://thedataexchange.media/pete-warden-moonshine/
+   - Discussion: https://news.ycombinator.com/item?id=50561508
+   - 138 points, 116 comments, posted 2026-11-19 07:38 PST
 
-11. AI will not make you rich (2025)
-   - Link: https://colossus.com/article/ai-will-not-make-you-rich/
-   - Discussion: https://news.ycombinator.com/item?id=50555093
-   - 96 points, 55 comments, posted 2026-11-18 17:51 PST
+8. Fuck Your AI Safeguards
+   - Link: https://ounapuu.ee/posts/2026/11/19/unsafeguards/
+   - Discussion: https://news.ycombinator.com/item?id=50562262
+   - 114 points, 40 comments, posted 2026-11-19 08:30 PST
 
-12. Show HN: Mastra Factory, the open-source software factory we use to build Mastra
-   - Link: https://news.ycombinator.com/item?id=50548660
-   - Discussion: https://news.ycombinator.com/item?id=50548660
-   - 92 points, 33 comments, posted 2026-11-18 08:53 PST
-
-13. Black high school students sue after AI mistakes Doritos bag for gun
+9. Black high school students sue after AI mistakes Doritos bag for gun
    - Link: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/
    - Discussion: https://news.ycombinator.com/item?id=50554641
-   - 87 points, 47 comments, posted 2026-11-18 16:57 PST
+   - 107 points, 81 comments, posted 2026-11-18 16:57 PST
 
-14. Can Peer Review Survive AI-Generated Text? [pdf]
-   - Link: https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf
-   - Discussion: https://news.ycombinator.com/item?id=50546312
-   - 67 points, 81 comments, posted 2026-11-18 05:51 PST
+10. AI will not make you rich (2025)
+   - Link: https://colossus.com/article/ai-will-not-make-you-rich/
+   - Discussion: https://news.ycombinator.com/item?id=50555093
+   - 105 points, 67 comments, posted 2026-11-18 17:51 PST
+
+11. The AI Superintelligence Debate Has Serious Flaws
+   - Link: https://spectrum.ieee.org/ai-superintelligence-debate
+   - Discussion: https://news.ycombinator.com/item?id=50559140
+   - 97 points, 155 comments, posted 2026-11-19 04:17 PST
+
+12. Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
+   - Link: https://contralabs.com/frontierdesign
+   - Discussion: https://news.ycombinator.com/item?id=50558559
+   - 93 points, 41 comments, posted 2026-11-19 03:03 PST
+
+13. OpenAI still has a WebRTC Problem
+   - Link: https://moq.dev/blog/webrtc-is-still-the-problem/
+   - Discussion: https://news.ycombinator.com/item?id=50560461
+   - 75 points, 23 comments, posted 2026-11-19 06:20 PST
+
+14. Claude Fable 5.2 solves two open problems in the physics of black holes
+   - Link: https://www.anthropic.com/research/claude-black-hole-physics
+   - Discussion: https://news.ycombinator.com/item?id=50563148
+   - 73 points, 17 comments, posted 2026-11-19 09:30 PST
 
 15. Fable: Written, painted and directed by Claude Fable 5.2
    - Link: https://claudia.gallery/fable/
    - Discussion: https://news.ycombinator.com/item?id=50554269
-   - 58 points, 58 comments, posted 2026-11-18 16:18 PST
+   - 61 points, 61 comments, posted 2026-11-18 16:18 PST
 
-16. Google Gemini's "Tasks" Personal Assistant Is Now Free
+16. Chrome AI features wasting much bandwidth
+   - Link: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
+   - Discussion: https://news.ycombinator.com/item?id=50562636
+   - 60 points, 15 comments, posted 2026-11-19 08:54 PST
+
+17. Google Gemini's "Tasks" Personal Assistant Is Now Free
    - Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
    - Discussion: https://news.ycombinator.com/item?id=50551601
-   - 52 points, 70 comments, posted 2026-11-18 12:20 PST
-
-17. Launch HN: Maritime (YC F26) – A managed cloud for production AI agents
-   - Link: https://news.ycombinator.com/item?id=50549188
-   - Discussion: https://news.ycombinator.com/item?id=50549188
-   - 52 points, 48 comments, posted 2026-11-18 09:26 PST
+   - 57 points, 75 comments, posted 2026-11-18 12:20 PST
 
 18. When Free Software Isn't Free Enough
    - Link: https://foss.life/notes/2026/free-software-isnt-free-enough/
    - Discussion: https://news.ycombinator.com/item?id=50550264
-   - 50 points, 57 comments, posted 2026-11-18 10:39 PST
+   - 52 points, 65 comments, posted 2026-11-18 10:39 PST
 
 
 ## Channel ids resolved this run
