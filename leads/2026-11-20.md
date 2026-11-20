@@ -1,10 +1,10 @@
 ---
 date: 2026-11-20
-generated_at: 2026-11-19T18:24:48Z
+generated_at: 2026-11-20T08:40:47Z
 status: partial
 videos: 2
 reddit_posts: 0
-hn_stories: 18
+hn_stories: 13
 ---
 
 # Overnight sources for Friday, November 20, 2026
@@ -28,7 +28,7 @@ YouTube uploads from the last 48 hours, Reddit's top posts of the last 24 hours 
 - Channel: Fireship
 - URL: https://www.youtube.com/watch?v=Qxor6jpfSiU
 - Published: 2026-11-19 09:40 PST
-- Views: 37,057
+- Views: 771,600
 
 Description:
 
@@ -39,7 +39,7 @@ Description:
 - Channel: Matt Pocock
 - URL: https://www.youtube.com/watch?v=jVBlkOF8sHk
 - Published: 2026-11-18 09:01 PST
-- Views: 115,240
+- Views: 153,137
 
 Description:
 
@@ -49,97 +49,72 @@ Description:
 ## Reddit (0 posts)
 
 
-## Hacker News (18 stories)
+## Hacker News (13 stories)
 
-1. Gemini 4 Neon
-   - Link: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
-   - Discussion: https://news.ycombinator.com/item?id=50552424
-   - 982 points, 744 comments, posted 2026-11-18 13:34 PST
-
-2. Anthropic prices initial public offering
-   - Link: https://www.anthropic.com/news/anthropic-prices-initial-public-offering
-   - Discussion: https://news.ycombinator.com/item?id=50553843
-   - 394 points, 742 comments, posted 2026-11-18 15:30 PST
-
-3. LLM assisted reverse engineering
-   - Link: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering
-   - Discussion: https://news.ycombinator.com/item?id=50553225
-   - 289 points, 74 comments, posted 2026-11-18 14:29 PST
-
-4. Gemini 4 Neon looks like an Opus 5.5 competitor
-   - Link: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/
-   - Discussion: https://news.ycombinator.com/item?id=50554374
-   - 247 points, 76 comments, posted 2026-11-18 16:29 PST
-
-5. Anthropic hits $2T in Nasdaq debut
+1. Anthropic’s Nasdaq debut
    - Link: https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/
    - Discussion: https://news.ycombinator.com/item?id=50562754
-   - 171 points, 187 comments, posted 2026-11-19 09:02 PST
+   - 1,065 points, 2,091 comments, posted 2026-11-19 09:02 PST
 
-6. Software companies are trying to kill home computing?
-   - Link: https://lateblt.livejournal.com/526188.html
-   - Discussion: https://news.ycombinator.com/item?id=50554010
-   - 171 points, 140 comments, posted 2026-11-18 15:49 PST
-
-7. Pete warden on local AI, open models, voice interfaces, the future of hardware
-   - Link: https://thedataexchange.media/pete-warden-moonshine/
-   - Discussion: https://news.ycombinator.com/item?id=50561508
-   - 138 points, 116 comments, posted 2026-11-19 07:38 PST
-
-8. Fuck Your AI Safeguards
+2. Fuck Your AI Safeguards
    - Link: https://ounapuu.ee/posts/2026/11/19/unsafeguards/
    - Discussion: https://news.ycombinator.com/item?id=50562262
-   - 114 points, 40 comments, posted 2026-11-19 08:30 PST
+   - 538 points, 219 comments, posted 2026-11-19 08:30 PST
 
-9. Black high school students sue after AI mistakes Doritos bag for gun
-   - Link: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/
-   - Discussion: https://news.ycombinator.com/item?id=50554641
-   - 107 points, 81 comments, posted 2026-11-18 16:57 PST
+3. Claude solves two open problems in the physics of black holes
+   - Link: https://www.anthropic.com/research/claude-black-hole-physics
+   - Discussion: https://news.ycombinator.com/item?id=50563148
+   - 487 points, 222 comments, posted 2026-11-19 09:30 PST
 
-10. AI will not make you rich (2025)
-   - Link: https://colossus.com/article/ai-will-not-make-you-rich/
-   - Discussion: https://news.ycombinator.com/item?id=50555093
-   - 105 points, 67 comments, posted 2026-11-18 17:51 PST
+4. Gemini 4 Neon is the new #1 on the Models Engineering Index
+   - Link: https://git-aarvin.github.io/mei/
+   - Discussion: https://news.ycombinator.com/item?id=50568130
+   - 340 points, 213 comments, posted 2026-11-19 15:35 PST
+
+5. Pete warden on local AI, open models, voice interfaces, the future of hardware
+   - Link: https://thedataexchange.media/pete-warden-moonshine/
+   - Discussion: https://news.ycombinator.com/item?id=50561508
+   - 233 points, 211 comments, posted 2026-11-19 07:38 PST
+
+6. Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
+   - Link: https://contralabs.com/frontierdesign
+   - Discussion: https://news.ycombinator.com/item?id=50558559
+   - 137 points, 45 comments, posted 2026-11-19 03:03 PST
+
+7. AI isn't replacing your job. It's turning it into low-paid gig work
+   - Link: https://restofworld.org/2026/ai-jobs-skills-gig-work/
+   - Discussion: https://news.ycombinator.com/item?id=50562500
+   - 134 points, 67 comments, posted 2026-11-19 08:45 PST
+
+8. Chrome AI features wasting much bandwidth
+   - Link: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
+   - Discussion: https://news.ycombinator.com/item?id=50562636
+   - 129 points, 49 comments, posted 2026-11-19 08:54 PST
+
+9. Launch HN: Onlook (YC W25) – An open-source developer tool for designers
+   - Link: https://github.com/onlook-dev/onlook/
+   - Discussion: https://news.ycombinator.com/item?id=50562320
+   - 116 points, 81 comments, posted 2026-11-19 08:34 PST
+
+10. Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]
+   - Link: https://www.youtube.com/watch?v=lwfewYL7X0o
+   - Discussion: https://news.ycombinator.com/item?id=50564366
+   - 102 points, 203 comments, posted 2026-11-19 10:47 PST
 
 11. The AI Superintelligence Debate Has Serious Flaws
    - Link: https://spectrum.ieee.org/ai-superintelligence-debate
    - Discussion: https://news.ycombinator.com/item?id=50559140
-   - 97 points, 155 comments, posted 2026-11-19 04:17 PST
+   - 102 points, 159 comments, posted 2026-11-19 04:17 PST
 
-12. Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2
-   - Link: https://contralabs.com/frontierdesign
-   - Discussion: https://news.ycombinator.com/item?id=50558559
-   - 93 points, 41 comments, posted 2026-11-19 03:03 PST
-
-13. OpenAI still has a WebRTC Problem
+12. OpenAI still has a WebRTC Problem
    - Link: https://moq.dev/blog/webrtc-is-still-the-problem/
    - Discussion: https://news.ycombinator.com/item?id=50560461
-   - 75 points, 23 comments, posted 2026-11-19 06:20 PST
+   - 96 points, 28 comments, posted 2026-11-19 06:20 PST
 
-14. Claude Fable 5.2 solves two open problems in the physics of black holes
-   - Link: https://www.anthropic.com/research/claude-black-hole-physics
-   - Discussion: https://news.ycombinator.com/item?id=50563148
-   - 73 points, 17 comments, posted 2026-11-19 09:30 PST
-
-15. Fable: Written, painted and directed by Claude Fable 5.2
-   - Link: https://claudia.gallery/fable/
-   - Discussion: https://news.ycombinator.com/item?id=50554269
-   - 61 points, 61 comments, posted 2026-11-18 16:18 PST
-
-16. Chrome AI features wasting much bandwidth
-   - Link: https://perishablepress.com/chrome-ai-wasting-much-bandwidth/
-   - Discussion: https://news.ycombinator.com/item?id=50562636
-   - 60 points, 15 comments, posted 2026-11-19 08:54 PST
-
-17. Google Gemini's "Tasks" Personal Assistant Is Now Free
-   - Link: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/
-   - Discussion: https://news.ycombinator.com/item?id=50551601
-   - 57 points, 75 comments, posted 2026-11-18 12:20 PST
-
-18. When Free Software Isn't Free Enough
-   - Link: https://foss.life/notes/2026/free-software-isnt-free-enough/
-   - Discussion: https://news.ycombinator.com/item?id=50550264
-   - 52 points, 65 comments, posted 2026-11-18 10:39 PST
+13. Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'
+   - Link: https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/
+   - Discussion: https://news.ycombinator.com/item?id=50567735
+   - 65 points, 18 comments, posted 2026-11-19 14:56 PST
 
 
 ## Channel ids resolved this run
